@@ -1,0 +1,4 @@
+"penetrator_diameter" = 20 
+"penetrator_fastners_diameter" = 40 
+"penetrator_fastner_hole_diameter" = 5 
+"penetrator_fastner_length" = 18.1778 

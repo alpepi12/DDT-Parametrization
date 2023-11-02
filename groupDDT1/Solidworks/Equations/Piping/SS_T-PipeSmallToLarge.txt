@@ -1,0 +1,10 @@
+"flange_extension" = 50 
+"pipe_thickness" = 5 
+"flange_thickness" = 15 
+"INpipes_ID" = 101.6 
+"OUTpipe_ID" = 152.4 
+"T_length" = 300 
+"hole_diameter" = 15 
+"N_holes" = 8 
+"gasket_thickness" = 2 
+"gasket_Ro_diff" = 5 

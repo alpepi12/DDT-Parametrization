@@ -1,0 +1,11 @@
+"cone_angle" = 15 
+"cyclone_diameter" = 254 
+"underflow_diameter" = 73.0361 
+"wall_thickness" = 5 
+"flange_thickness" = 5 
+"flange_extension" = 30 
+"N_holes" = 8 
+"hole_diameter" = 12 
+"gasket_Ro_diff" = 6.35 
+"gasket_Ri_diff" = 0 
+"gasket_thickness" = 1.5875 

@@ -1,0 +1,4 @@
+"nut_length" = 21.5875 
+"nut_diameter" = 12 
+"head_thickness" = 5 
+"head_width" = 3 

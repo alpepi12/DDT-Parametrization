@@ -1,0 +1,2 @@
+"sp_shaft_dia" = 24.6897 
+"sft_key_ht" = 4.6293 

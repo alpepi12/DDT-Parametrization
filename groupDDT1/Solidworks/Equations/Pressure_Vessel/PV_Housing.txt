@@ -1,0 +1,12 @@
+"inner_length" = 1000 
+"inner_radius" = 120 
+"wall_thickness" = 15.5 
+"flange_OD" = 351 
+"flange_thickness" = 25 
+"N_holes" = 8 
+"hole_diameter" = 14 
+"holes_pattern_diameter" = 311 
+"bottom_thickness" = 36.3555 
+"groove_midpoint" = 134.25 
+"groove_width" = 8.2098 
+"groove_depth" = 3.1888 

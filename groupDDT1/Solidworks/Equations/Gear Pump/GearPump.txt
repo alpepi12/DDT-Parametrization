@@ -1,0 +1,10 @@
+﻿"a"=100
+"da"=120
+"t"= 15
+"b"=20
+"shaftd"=35
+"keyh"=3
+"keyw"=2
+"BearingDia"= 62
+"BearingWid"= 20
+"s"=2.5

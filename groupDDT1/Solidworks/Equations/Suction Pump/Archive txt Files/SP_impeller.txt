@@ -1,0 +1,10 @@
+"num_vanes" = 6 
+"imp_dis_angle" = 15 
+"imp_outer_rad" = 129.049 
+"imp_inner_rad" = 65.2657 
+"imp_width" = 17.0925 
+"vane_thick" = 6.35 
+"imp_inlet_angle" = 21.3928 
+"sp_shaft_dia" = 24.6897 
+"sp_key_wth" = 6.1724 
+"sp_key_ht" = 4.6293 

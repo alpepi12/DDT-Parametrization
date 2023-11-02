@@ -1,0 +1,5 @@
+"sp_shaft_dia" = 24.6897 
+"stuff_box_rad" = 32.4052 
+"stuff_hole_dia" = 8 
+"sft_key_ht" = 4.6293 
+"flange_thickness" = 15 

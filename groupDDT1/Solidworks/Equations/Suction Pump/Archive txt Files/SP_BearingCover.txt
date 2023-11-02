@@ -1,0 +1,5 @@
+"sp_shaft_dia" = 24.6897 
+"sft_key_ht" = 4.6293 
+"groove_depth" = 3.337 
+"groove_width" = 7.8454 
+"stuff_hole_dia" = 8 

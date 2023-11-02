@@ -1,0 +1,8 @@
+"shaft_length" = 500 
+"shaft_diameter" = 24.6897 
+"key_width" = 6.1724 
+"key_height" = 4.6293 
+"imp_width" = 17.0925 
+"flange_thickness" = 15 
+"vol_width" = 29.9119 
+"vol_outer_width" = 77.526 

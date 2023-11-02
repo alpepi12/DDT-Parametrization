@@ -1,0 +1,15 @@
+"imp_outer_rad" = 129.049 
+"imp_inner_rad" = 65.2657 
+"cutwater_rad" = 136.7919 
+"volute_width" = 29.9119 
+"volute_pitch" = 21.4938 
+"volute_rev" = 0.875 
+"vol_outer_width" = 77.526 
+"pipe_dia" = 177.8 
+"flange_extension" = 50 
+"flange_thick" = 15 
+"N_holes" = 8 
+"hole_dia" = 15 
+"hole_depth" = 23.9295 
+"base_hole_dia" = 20 
+"imp_width" = 17.0925 

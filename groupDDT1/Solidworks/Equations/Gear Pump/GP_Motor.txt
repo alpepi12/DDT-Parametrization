@@ -1,0 +1,5 @@
+﻿"Length"=350
+"Height"=75
+"Shaft"=80
+"SHeight"=15
+"d"=25

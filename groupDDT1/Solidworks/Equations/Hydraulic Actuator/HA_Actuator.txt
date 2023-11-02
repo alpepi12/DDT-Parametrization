@@ -1,0 +1,16 @@
+﻿"dc_min" = 600 
+"t" = 20 
+"bh" = 60 
+"bw" = 75 
+"A" = 10000 
+"bdist" = 30 
+"bdia" = 30 
+"rodd" = 33.127 
+"oh" = 80 
+"ow" = 5000 
+"phH" = 100 
+"pind" = 80 
+"rodL" = 1000 
+"buckpinw" = 75 
+ 
+"buckholed" =79.0283 

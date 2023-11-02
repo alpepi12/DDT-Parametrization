@@ -1,0 +1,12 @@
+"sp_shaft_dia" = 24.6897 
+"imp_outer_rad" = 129.049 
+"volute_width" = 29.9119 
+"flange_thickness" = 15 
+"cutwater_rad" = 136.7919 
+"flange_extension" = 50 
+"hole_dia" = 15 
+"N_holes" = 8 
+"stuff_box_rad" = 32.4052 
+"stuff_hole_dia" = 8 
+"vol_outer_width" = 77.526 
+"sp_key_ht" = 4.6293 

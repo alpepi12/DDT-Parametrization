@@ -1,0 +1,14 @@
+"endcap_thickness" = 36.3555 
+"endcap_depth" = 50 
+"endcap_inner_thickness" = 30 
+"flange_OD" = 351 
+"N_holes" = 8 
+"hole_diameter" = 14 
+"holes_pattern_diameter" = 311 
+"endcap_smallOD" = 239.3777 
+"groove_depth" = 3.1888 
+"groove_width" = 8.2098 
+"penetrators_layout_diameter" = 100 
+"penetrator_diameter" = 20 
+"penetrator_fastners_diameter" = 40 
+"penetrator_fastner_hole_diameter" = 5 

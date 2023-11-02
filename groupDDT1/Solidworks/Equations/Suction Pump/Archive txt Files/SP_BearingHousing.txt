@@ -1,0 +1,6 @@
+"sp_shaft_dia" = 24.6897 
+"sft_key_ht" = 4.6293 
+"flange_extension" = 50 
+"flange_thickness" = 15 
+"cutwater_rad" = 136.7919 
+"stuff_hole_dia" = 8 

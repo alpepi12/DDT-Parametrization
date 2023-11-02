@@ -1,0 +1,2 @@
+"o_ring_ID" = 41.9107 
+"o_ring_dia" = 5 

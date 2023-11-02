@@ -1,0 +1,11 @@
+"overflow_diameter" = 88.9 
+"length_vortex" = 94.6602 
+"wall_thickness" = 5 
+"overflow_lip_thickness" = 15 
+"flange_extension" = 30 
+"flange_thickness" = 5 
+"N_holes" = 8 
+"hole_diameter" = 12 
+"gasket_Ro_diff" = 6.35 
+"gasket_Ri_diff" = 0 
+"gasket_thickness" = 1.5875 

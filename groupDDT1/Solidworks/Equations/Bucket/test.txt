@@ -1,0 +1,8 @@
+"bucket_lb" = 1000 
+"bucket_blade_hole_diameter" = 20 
+"bucket_bracket_distance" = 150 
+"suction_hose_flange_bolt_diameter" = 100 
+"return_hose_flange_bolt_diameter" = 30 
+"bucket_width" = 2 
+"bucket_bracket_pin_diameter" = 88.2898 
+"weld_leg" = 16.3814 

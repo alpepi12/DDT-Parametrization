@@ -1,0 +1,3 @@
+"bolt_thickness" = 7 
+"bolt_width" = 5 
+"hole_diameter" = 14 
