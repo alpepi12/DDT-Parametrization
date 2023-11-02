@@ -1,0 +1,4842 @@
+******** PRESSURE VESSEL ********
+ 
+Nominal Depth Pressure = 30.46 MPa.
+ 
+Collapse Depth Pressure = 48.7361 MPa.
+ 
+
+--- Pressure Vessel Walls ---
+ 
+Inner length = 100 cm.
+ 
+Inner radius = 12 cm.
+ 
+Vessel wall thickness = 2.95 cm.
+ 
+
+--- Pressure Vessel End-cap ---
+ 
+End-cap thickness is driven by bending stress.
+ 
+End-cap wall thickness = 4.6831 cm.
+ 
+
+--- O-rings ---
+ 
+O-ring clearance for operational pressure = 0.16188 mm.
+ 
+O-ring cross-section diameter = 5 mm.
+ 
+
+--- Nuts & bolts ---
+ 
+Nut used = 14 mm.
+ 
+************************************** 
+
+******** PRESSURE VESSEL ********
+ 
+Nominal Depth Pressure = 30.46 MPa.
+ 
+Collapse Depth Pressure = 48.7361 MPa.
+ 
+
+--- Pressure Vessel Walls ---
+ 
+Inner length = 100 cm.
+ 
+Inner radius = 12 cm.
+ 
+Vessel wall thickness = 2.95 cm.
+ 
+
+--- Pressure Vessel End-cap ---
+ 
+End-cap thickness is driven by bending stress.
+ 
+End-cap wall thickness = 4.6831 cm.
+ 
+
+--- O-rings ---
+ 
+O-ring clearance for operational pressure = 0.16188 mm.
+ 
+O-ring cross-section diameter = 5 mm.
+ 
+
+--- Nuts & bolts ---
+ 
+Nut used = 14M.
+ 
+************************************** 
+
+******** PRESSURE VESSEL ********
+ 
+Nominal Depth Pressure = 30.46 MPa.
+ 
+Collapse Depth Pressure = 48.7361 MPa.
+ 
+
+--- Pressure Vessel Walls ---
+ 
+Inner length = 100 cm.
+ 
+Inner radius = 12 cm.
+ 
+Vessel wall thickness = 2.95 cm.
+ 
+
+--- Pressure Vessel End-cap ---
+ 
+End-cap thickness is driven by bending stress.
+ 
+End-cap wall thickness = 4.6831 cm.
+ 
+
+--- O-rings ---
+ 
+O-ring clearance for operational pressure = 0.16188 mm.
+ 
+O-ring cross-section diameter = 5 mm.
+ 
+
+--- Nuts & bolts ---
+ 
+Nut used = 14M.
+ 
+************************************** 
+
+******** Suction Pump Design ********
+ 
+
+--- Pump Operational Properties ---
+ 
+Pump flowrate required: 1070.8635 gpm 
+ 
+Pump head required: 357.5372 ft 
+ 
+Pump impeller rotational speed: 3600 rpm 
+ 
+Pump specific speed: 1502.7094 
+ 
+
+--- Graph Parameters ---
+ 
+Head Constant: 1.0514 
+ 
+Capacity Constant: 0.1107 
+ 
+Impeller Radius Ratio: 0.50574 
+ 
+Volute Velocity Constant: 0.4081 
+ 
+
+--- Impeller Design Properties ---
+ 
+Impeller blade width: 6.35 mm 
+ 
+Number of vanes on impeller: 6 
+ 
+Vane inlet angle: 21.3928 deg 
+ 
+Vane discharge angle: 15 deg 
+ 
+Impeller outer radius: 129.049 mm 
+ 
+Impeller inner radius: 65.2657 mm 
+ 
+Impeller width: 17.0925 mm 
+ 
+
+--- Pump Power Requirements and Efficency ---
+ 
+Pump hydraulic power: 72180.602 W 
+ 
+Required torque: 272.9832 N.m 
+ 
+Pump shaft power: 102912.2599 W 
+ 
+Pump efficency: 70.138 
+--- Pump Shaft Design ---
+ 
+Shaft diameter calculated (SF = 1.5):24.6897 mm. 
+
+--- Volute Design Properties ---
+ 
+Volute inner width: 29.9119 mm 
+ 
+Volute outer width: 77.526 mm 
+ 
+Cutwater radius: 136.7919 mm 
+ 
+Volute exit area: 3581.2284 mm^2 
+ 
+Volute exit diameter: 67.526 mm 
+ 
+Volute revolution: 0.875  
+ 
+Volute spiral pitch: 21.4938 mm 
+ 
+Pump minimum wall thickness: 5 mm 
+ 
+
+******** Suction Pump Design ********
+ 
+
+--- Pump Operational Properties ---
+ 
+Pump flowrate required: 1070.8635 gpm 
+ 
+Pump head required: 357.5372 ft 
+ 
+Pump impeller rotational speed: 3600 rpm 
+ 
+Pump specific speed: 1502.7094 
+ 
+
+--- Graph Parameters ---
+ 
+Head Constant: 1.0514 
+ 
+Capacity Constant: 0.1107 
+ 
+Impeller Radius Ratio: 0.50574 
+ 
+Volute Velocity Constant: 0.4081 
+ 
+
+--- Impeller Design Properties ---
+ 
+Impeller blade width: 6.35 mm 
+ 
+Number of vanes on impeller: 6 
+ 
+Vane inlet angle: 21.3928 deg 
+ 
+Vane discharge angle: 15 deg 
+ 
+Impeller outer radius: 129.049 mm 
+ 
+Impeller inner radius: 65.2657 mm 
+ 
+Impeller width: 17.0925 mm 
+ 
+
+--- Pump Power Requirements and Efficency ---
+ 
+Pump hydraulic power: 72180.602 W 
+ 
+Required torque: 272.9832 N.m 
+ 
+Pump shaft power: 102912.2599 W 
+ 
+Pump efficency: 70.138 
+--- Pump Shaft Design ---
+ 
+Shaft diameter calculated (SF = 1.5):24.6897 mm. 
+
+--- Volute Design Properties ---
+ 
+Volute inner width: 29.9119 mm 
+ 
+Volute outer width: 77.526 mm 
+ 
+Cutwater radius: 136.7919 mm 
+ 
+Volute exit area: 3581.2284 mm^2 
+ 
+Volute exit diameter: 67.526 mm 
+ 
+Volute revolution: 0.875  
+ 
+Volute spiral pitch: 21.4938 mm 
+ 
+Pump minimum wall thickness: 5 mm 
+ 
+
+******** Suction Pump Design ********
+ 
+
+--- Pump Operational Properties ---
+ 
+Pump flowrate required: 1070.8635 gpm 
+ 
+Pump head required: 357.5372 ft 
+ 
+Pump impeller rotational speed: 3600 rpm 
+ 
+Pump specific speed: 1502.7094 
+ 
+
+--- Graph Parameters ---
+ 
+Head Constant: 1.0514 
+ 
+Capacity Constant: 0.1107 
+ 
+Impeller Radius Ratio: 0.50574 
+ 
+Volute Velocity Constant: 0.4081 
+ 
+
+--- Impeller Design Properties ---
+ 
+Impeller blade width: 6.35 mm 
+ 
+Number of vanes on impeller: 6 
+ 
+Vane inlet angle: 21.3928 deg 
+ 
+Vane discharge angle: 15 deg 
+ 
+Impeller outer radius: 129.049 mm 
+ 
+Impeller inner radius: 65.2657 mm 
+ 
+Impeller width: 17.0925 mm 
+ 
+
+--- Pump Power Requirements and Efficency ---
+ 
+Pump hydraulic power: 72180.602 W 
+ 
+Required torque: 272.9832 N.m 
+ 
+Pump shaft power: 102912.2599 W 
+ 
+Pump efficency: 70.138 
+--- Pump Shaft Design ---
+ 
+Shaft diameter calculated (SF = 1.5):24.6897 mm. 
+
+--- Volute Design Properties ---
+ 
+Volute inner width: 29.9119 mm 
+ 
+Volute outer width: 77.526 mm 
+ 
+Cutwater radius: 136.7919 mm 
+ 
+Volute exit area: 3581.2284 mm^2 
+ 
+Volute exit diameter: 67.526 mm 
+ 
+Volute revolution: 0.875  
+ 
+Volute spiral pitch: 21.4938 mm 
+ 
+Pump minimum wall thickness: 5 mm 
+ 
+
+******** Suction Pump Design ********
+ 
+
+--- Pump Operational Properties ---
+ 
+Pump flowrate required: 1070.8635 gpm 
+ 
+Pump head required: 357.5372 ft 
+ 
+Pump impeller rotational speed: 3600 rpm 
+ 
+Pump specific speed: 1502.7094 
+ 
+
+--- Graph Parameters ---
+ 
+Head Constant: 1.0514 
+ 
+Capacity Constant: 0.1107 
+ 
+Impeller Radius Ratio: 0.50574 
+ 
+Volute Velocity Constant: 0.4081 
+ 
+
+--- Impeller Design Properties ---
+ 
+Impeller blade width: 6.35 mm 
+ 
+Number of vanes on impeller: 6 
+ 
+Vane inlet angle: 21.3928 deg 
+ 
+Vane discharge angle: 15 deg 
+ 
+Impeller outer radius: 129.049 mm 
+ 
+Impeller inner radius: 65.2657 mm 
+ 
+Impeller width: 17.0925 mm 
+ 
+
+--- Pump Power Requirements and Efficency ---
+ 
+Pump hydraulic power: 72180.602 W 
+ 
+Required torque: 272.9832 N.m 
+ 
+Pump shaft power: 102912.2599 W 
+ 
+Pump efficency: 70.138 
+--- Pump Shaft Design ---
+ 
+Shaft diameter calculated (SF = 1.5):24.6897 mm. 
+
+--- Volute Design Properties ---
+ 
+Volute inner width: 29.9119 mm 
+ 
+Volute outer width: 77.526 mm 
+ 
+Cutwater radius: 136.7919 mm 
+ 
+Volute exit area: 3581.2284 mm^2 
+ 
+Volute exit diameter: 67.526 mm 
+ 
+Volute revolution: 0.875  
+ 
+Volute spiral pitch: 21.4938 mm 
+ 
+Pump minimum wall thickness: 5 mm 
+ 
+
+******** Suction Pump Design ********
+ 
+
+--- Pump Operational Properties ---
+ 
+Pump flowrate required: 1070.8635 gpm 
+ 
+Pump head required: 357.5372 ft 
+ 
+Pump impeller rotational speed: 3600 rpm 
+ 
+Pump specific speed: 1502.7094 
+ 
+
+--- Graph Parameters ---
+ 
+Head Constant: 1.0514 
+ 
+Capacity Constant: 0.1107 
+ 
+Impeller Radius Ratio: 0.50574 
+ 
+Volute Velocity Constant: 0.4081 
+ 
+
+--- Impeller Design Properties ---
+ 
+Impeller blade width: 6.35 mm 
+ 
+Number of vanes on impeller: 6 
+ 
+Vane inlet angle: 21.3928 deg 
+ 
+Vane discharge angle: 15 deg 
+ 
+Impeller outer radius: 129.049 mm 
+ 
+Impeller inner radius: 65.2657 mm 
+ 
+Impeller width: 17.0925 mm 
+ 
+
+--- Pump Power Requirements and Efficency ---
+ 
+Pump hydraulic power: 72180.602 W 
+ 
+Required torque: 272.9832 N.m 
+ 
+Pump shaft power: 102912.2599 W 
+ 
+Pump efficency: 70.138 
+--- Pump Shaft Design ---
+ 
+Shaft diameter calculated (SF = 1.5):24.6897 mm. 
+
+--- Volute Design Properties ---
+ 
+Volute inner width: 29.9119 mm 
+ 
+Volute outer width: 77.526 mm 
+ 
+Cutwater radius: 136.7919 mm 
+ 
+Volute exit area: 3581.2284 mm^2 
+ 
+Volute exit diameter: 67.526 mm 
+ 
+Volute revolution: 0.875  
+ 
+Volute spiral pitch: 21.4938 mm 
+ 
+Pump minimum wall thickness: 5 mm 
+ 
+
+******** Suction Pump Design ********
+ 
+
+--- Pump Operational Properties ---
+ 
+Pump flowrate required: 1070.8635 gpm 
+ 
+Pump head required: 357.5372 ft 
+ 
+Pump impeller rotational speed: 3600 rpm 
+ 
+Pump specific speed: 1502.7094 
+ 
+
+--- Graph Parameters ---
+ 
+Head Constant: 1.0514 
+ 
+Capacity Constant: 0.1107 
+ 
+Impeller Radius Ratio: 0.50574 
+ 
+Volute Velocity Constant: 0.4081 
+ 
+
+--- Impeller Design Properties ---
+ 
+Impeller blade width: 6.35 mm 
+ 
+Number of vanes on impeller: 6 
+ 
+Vane inlet angle: 21.3928 deg 
+ 
+Vane discharge angle: 15 deg 
+ 
+Impeller outer radius: 129.049 mm 
+ 
+Impeller inner radius: 65.2657 mm 
+ 
+Impeller width: 17.0925 mm 
+ 
+
+--- Pump Power Requirements and Efficency ---
+ 
+Pump hydraulic power: 72180.602 W 
+ 
+Required torque: 272.9832 N.m 
+ 
+Pump shaft power: 102912.2599 W 
+ 
+Pump efficency: 70.138 
+--- Pump Shaft Design ---
+ 
+Shaft diameter calculated (SF = 1.5):24.6897 mm. 
+
+--- Volute Design Properties ---
+ 
+Volute inner width: 29.9119 mm 
+ 
+Volute outer width: 77.526 mm 
+ 
+Cutwater radius: 136.7919 mm 
+ 
+Volute exit area: 3581.2284 mm^2 
+ 
+Volute exit diameter: 67.526 mm 
+ 
+Volute revolution: 0.875  
+ 
+Volute spiral pitch: 21.4938 mm 
+ 
+Pump minimum wall thickness: 5 mm 
+ 
+
+******** Suction Pump Design ********
+ 
+
+--- Pump Operational Properties ---
+ 
+Pump flowrate required: 1070.8635 gpm 
+ 
+Pump head required: 357.5372 ft 
+ 
+Pump impeller rotational speed: 3600 rpm 
+ 
+Pump specific speed: 1502.7094 
+ 
+
+--- Graph Parameters ---
+ 
+Head Constant: 1.0514 
+ 
+Capacity Constant: 0.1107 
+ 
+Impeller Radius Ratio: 0.50574 
+ 
+Volute Velocity Constant: 0.4081 
+ 
+
+--- Impeller Design Properties ---
+ 
+Impeller blade width: 6.35 mm 
+ 
+Number of vanes on impeller: 6 
+ 
+Vane inlet angle: 21.3928 deg 
+ 
+Vane discharge angle: 15 deg 
+ 
+Impeller outer radius: 129.049 mm 
+ 
+Impeller inner radius: 65.2657 mm 
+ 
+Impeller width: 17.0925 mm 
+ 
+
+--- Pump Power Requirements and Efficency ---
+ 
+Pump hydraulic power: 72180.602 W 
+ 
+Required torque: 272.9832 N.m 
+ 
+Pump shaft power: 102912.2599 W 
+ 
+Pump efficency: 70.138 
+--- Pump Shaft Design ---
+ 
+Shaft diameter calculated (SF = 1.5):24.6897 mm. 
+
+--- Volute Design Properties ---
+ 
+Volute inner width: 29.9119 mm 
+ 
+Volute outer width: 77.526 mm 
+ 
+Cutwater radius: 136.7919 mm 
+ 
+Volute exit area: 3581.2284 mm^2 
+ 
+Volute exit diameter: 67.526 mm 
+ 
+Volute revolution: 0.875  
+ 
+Volute spiral pitch: 21.4938 mm 
+ 
+Pump minimum wall thickness: 5 mm 
+ 
+
+******** Suction Pump Design ********
+ 
+
+--- Pump Operational Properties ---
+ 
+Pump flowrate required: 1070.8635 gpm 
+ 
+Pump head required: 357.5372 ft 
+ 
+Pump impeller rotational speed: 3600 rpm 
+ 
+Pump specific speed: 1502.7094 
+ 
+
+--- Graph Parameters ---
+ 
+Head Constant: 1.0514 
+ 
+Capacity Constant: 0.1107 
+ 
+Impeller Radius Ratio: 0.50574 
+ 
+Volute Velocity Constant: 0.4081 
+ 
+
+--- Impeller Design Properties ---
+ 
+Impeller blade width: 6.35 mm 
+ 
+Number of vanes on impeller: 6 
+ 
+Vane inlet angle: 21.3928 deg 
+ 
+Vane discharge angle: 15 deg 
+ 
+Impeller outer radius: 129.049 mm 
+ 
+Impeller inner radius: 65.2657 mm 
+ 
+Impeller width: 17.0925 mm 
+ 
+
+--- Pump Power Requirements and Efficency ---
+ 
+Pump hydraulic power: 72180.602 W 
+ 
+Required torque: 272.9832 N.m 
+ 
+Pump shaft power: 102912.2599 W 
+ 
+Pump efficency: 70.138 
+--- Pump Shaft Design ---
+ 
+Shaft diameter calculated (SF = 1.5):24.6897 mm. 
+
+--- Volute Design Properties ---
+ 
+Volute inner width: 29.9119 mm 
+ 
+Volute outer width: 77.526 mm 
+ 
+Cutwater radius: 136.7919 mm 
+ 
+Volute exit area: 3581.2284 mm^2 
+ 
+Volute exit diameter: 67.526 mm 
+ 
+Volute revolution: 0.875  
+ 
+Volute spiral pitch: 21.4938 mm 
+ 
+Pump minimum wall thickness: 5 mm 
+ 
+
+******** Suction Pump Design ********
+ 
+
+--- Pump Operational Properties ---
+ 
+Pump flowrate required: 1070.8635 gpm 
+ 
+Pump head required: 357.5372 ft 
+ 
+Pump impeller rotational speed: 3600 rpm 
+ 
+Pump specific speed: 1502.7094 
+ 
+
+--- Graph Parameters ---
+ 
+Head Constant: 1.0514 
+ 
+Capacity Constant: 0.1107 
+ 
+Impeller Radius Ratio: 0.50574 
+ 
+Volute Velocity Constant: 0.4081 
+ 
+
+--- Impeller Design Properties ---
+ 
+Impeller blade width: 6.35 mm 
+ 
+Number of vanes on impeller: 6 
+ 
+Vane inlet angle: 21.3928 deg 
+ 
+Vane discharge angle: 15 deg 
+ 
+Impeller outer radius: 129.049 mm 
+ 
+Impeller inner radius: 65.2657 mm 
+ 
+Impeller width: 17.0925 mm 
+ 
+
+--- Pump Power Requirements and Efficency ---
+ 
+Pump hydraulic power: 72180.602 W 
+ 
+Required torque: 272.9832 N.m 
+ 
+Pump shaft power: 102912.2599 W 
+ 
+Pump efficency: 70.138 
+--- Pump Shaft Design ---
+ 
+Shaft diameter calculated (SF = 1.5):24.6897 mm. 
+
+--- Volute Design Properties ---
+ 
+Volute inner width: 29.9119 mm 
+ 
+Volute outer width: 77.526 mm 
+ 
+Cutwater radius: 136.7919 mm 
+ 
+Volute exit area: 3581.2284 mm^2 
+ 
+Volute exit diameter: 67.526 mm 
+ 
+Volute revolution: 0.875  
+ 
+Volute spiral pitch: 21.4938 mm 
+ 
+Pump minimum wall thickness: 5 mm 
+ 
+
+******** Suction Pump Design ********
+ 
+
+--- Pump Operational Properties ---
+ 
+Pump flowrate required: 1070.8635 gpm 
+ 
+Pump head required: 357.5372 ft 
+ 
+Pump impeller rotational speed: 3600 rpm 
+ 
+Pump specific speed: 1502.7094 
+ 
+
+--- Graph Parameters ---
+ 
+Head Constant: 1.0514 
+ 
+Capacity Constant: 0.1107 
+ 
+Impeller Radius Ratio: 0.50574 
+ 
+Volute Velocity Constant: 0.4081 
+ 
+
+--- Impeller Design Properties ---
+ 
+Impeller blade width: 6.35 mm 
+ 
+Number of vanes on impeller: 6 
+ 
+Vane inlet angle: 21.3928 deg 
+ 
+Vane discharge angle: 15 deg 
+ 
+Impeller outer radius: 129.049 mm 
+ 
+Impeller inner radius: 65.2657 mm 
+ 
+Impeller width: 17.0925 mm 
+ 
+
+--- Pump Power Requirements and Efficency ---
+ 
+Pump hydraulic power: 72180.602 W 
+ 
+Required torque: 272.9832 N.m 
+ 
+Pump shaft power: 102912.2599 W 
+ 
+Pump efficency: 70.138 
+--- Pump Shaft Design ---
+ 
+Shaft diameter calculated (SF = 1.5):24.6897 mm. 
+
+--- Volute Design Properties ---
+ 
+Volute inner width: 29.9119 mm 
+ 
+Volute outer width: 77.526 mm 
+ 
+Cutwater radius: 136.7919 mm 
+ 
+Volute exit area: 3581.2284 mm^2 
+ 
+Volute exit diameter: 67.526 mm 
+ 
+Volute revolution: 0.875  
+ 
+Volute spiral pitch: 21.4938 mm 
+ 
+Pump minimum wall thickness: 5 mm 
+ 
+
+--- O-rings ---
+ 
+O-ring clearance for operational pressure: 0.16302 mm
+ 
+O-ring cross-section diameter: 5 mm 
+ 
+O-ring inner diameter: 41.9107 mm 
+ 
+O-ring groove depth: 29.1745 mm 
+ 
+O-ring groove width: 0.89736 mm 
+ 
+
+******** Suction Pump Design ********
+ 
+
+--- Pump Operational Properties ---
+ 
+Pump flowrate required: 1070.8635 gpm 
+ 
+Pump head required: 357.5372 ft 
+ 
+Pump impeller rotational speed: 3600 rpm 
+ 
+Pump specific speed: 1502.7094 
+ 
+
+--- Graph Parameters ---
+ 
+Head Constant: 1.0514 
+ 
+Capacity Constant: 0.1107 
+ 
+Impeller Radius Ratio: 0.50574 
+ 
+Volute Velocity Constant: 0.4081 
+ 
+
+--- Impeller Design Properties ---
+ 
+Impeller blade width: 6.35 mm 
+ 
+Number of vanes on impeller: 6 
+ 
+Vane inlet angle: 21.3928 deg 
+ 
+Vane discharge angle: 15 deg 
+ 
+Impeller outer radius: 129.049 mm 
+ 
+Impeller inner radius: 65.2657 mm 
+ 
+Impeller width: 17.0925 mm 
+ 
+
+--- Pump Power Requirements and Efficency ---
+ 
+Pump hydraulic power: 72180.602 W 
+ 
+Required torque: 272.9832 N.m 
+ 
+Pump shaft power: 102912.2599 W 
+ 
+Pump efficency: 70.138 
+--- Pump Shaft Design ---
+ 
+Shaft diameter calculated (SF = 1.5):24.6897 mm. 
+
+--- Volute Design Properties ---
+ 
+Volute inner width: 29.9119 mm 
+ 
+Volute outer width: 77.526 mm 
+ 
+Cutwater radius: 136.7919 mm 
+ 
+Volute exit area: 3581.2284 mm^2 
+ 
+Volute exit diameter: 67.526 mm 
+ 
+Volute revolution: 0.875  
+ 
+Volute spiral pitch: 21.4938 mm 
+ 
+Pump minimum wall thickness: 5 mm 
+ 
+
+--- O-rings ---
+ 
+O-ring clearance for operational pressure: 0.16302 mm
+ 
+O-ring cross-section diameter: 5 mm 
+ 
+O-ring inner diameter: 41.9107 mm 
+ 
+O-ring groove depth: 29.1745 mm 
+ 
+O-ring groove width: 0.89736 mm 
+ 
+
+******** Suction Pump Design ********
+ 
+
+--- Pump Operational Properties ---
+ 
+Pump flowrate required: 1070.8635 gpm 
+ 
+Pump head required: 357.5372 ft 
+ 
+Pump impeller rotational speed: 3600 rpm 
+ 
+Pump specific speed: 1502.7094 
+ 
+
+--- Graph Parameters ---
+ 
+Head Constant: 1.0514 
+ 
+Capacity Constant: 0.1107 
+ 
+Impeller Radius Ratio: 0.50574 
+ 
+Volute Velocity Constant: 0.4081 
+ 
+
+--- Impeller Design Properties ---
+ 
+Impeller blade width: 6.35 mm 
+ 
+Number of vanes on impeller: 6 
+ 
+Vane inlet angle: 21.3928 deg 
+ 
+Vane discharge angle: 15 deg 
+ 
+Impeller outer radius: 129.049 mm 
+ 
+Impeller inner radius: 65.2657 mm 
+ 
+Impeller width: 17.0925 mm 
+ 
+
+--- Pump Power Requirements and Efficency ---
+ 
+Pump hydraulic power: 72180.602 W 
+ 
+Required torque: 272.9832 N.m 
+ 
+Pump shaft power: 102912.2599 W 
+ 
+Pump efficency: 70.138 
+--- Pump Shaft Design ---
+ 
+Shaft diameter calculated (SF = 1.5):24.6897 mm. 
+
+--- Volute Design Properties ---
+ 
+Volute inner width: 29.9119 mm 
+ 
+Volute outer width: 77.526 mm 
+ 
+Cutwater radius: 136.7919 mm 
+ 
+Volute exit area: 3581.2284 mm^2 
+ 
+Volute exit diameter: 67.526 mm 
+ 
+Volute revolution: 0.875  
+ 
+Volute spiral pitch: 21.4938 mm 
+ 
+Pump minimum wall thickness: 5 mm 
+ 
+
+--- O-rings ---
+ 
+O-ring clearance for operational pressure: 0.16302 mm
+ 
+O-ring cross-section diameter: 5 mm 
+ 
+O-ring inner diameter: 41.9107 mm 
+ 
+O-ring groove depth: 3.337 mm 
+ 
+O-ring groove width: 7.8454 mm 
+ 
+
+******** Suction Pump Design ********
+ 
+
+--- Pump Operational Properties ---
+ 
+Pump flowrate required: 1070.8635 gpm 
+ 
+Pump head required: 357.5372 ft 
+ 
+Pump impeller rotational speed: 3600 rpm 
+ 
+Pump specific speed: 1502.7094 
+ 
+
+--- Graph Parameters ---
+ 
+Head Constant: 1.0514 
+ 
+Capacity Constant: 0.1107 
+ 
+Impeller Radius Ratio: 0.50574 
+ 
+Volute Velocity Constant: 0.4081 
+ 
+
+--- Impeller Design Properties ---
+ 
+Impeller blade width: 6.35 mm 
+ 
+Number of vanes on impeller: 6 
+ 
+Vane inlet angle: 21.3928 deg 
+ 
+Vane discharge angle: 15 deg 
+ 
+Impeller outer radius: 129.049 mm 
+ 
+Impeller inner radius: 65.2657 mm 
+ 
+Impeller width: 17.0925 mm 
+ 
+
+--- Pump Power Requirements and Efficency ---
+ 
+Pump hydraulic power: 72180.602 W 
+ 
+Required torque: 272.9832 N.m 
+ 
+Pump shaft power: 102912.2599 W 
+ 
+Pump efficency: 70.138 
+--- Pump Shaft Design ---
+ 
+Shaft diameter calculated (SF = 1.5):24.6897 mm. 
+
+--- Volute Design Properties ---
+ 
+Volute inner width: 29.9119 mm 
+ 
+Volute outer width: 77.526 mm 
+ 
+Cutwater radius: 136.7919 mm 
+ 
+Volute exit area: 3581.2284 mm^2 
+ 
+Volute exit diameter: 67.526 mm 
+ 
+Volute revolution: 0.875  
+ 
+Volute spiral pitch: 21.4938 mm 
+ 
+Pump minimum wall thickness: 5 mm 
+ 
+
+--- O-rings ---
+ 
+O-ring clearance for operational pressure: 0.16302 mm
+ 
+O-ring cross-section diameter: 5 mm 
+ 
+O-ring inner diameter: 41.9107 mm 
+ 
+O-ring groove depth: 3.337 mm 
+ 
+O-ring groove width: 7.8454 mm 
+ 
+
+******** Suction Pump Design ********
+ 
+
+--- Pump Operational Properties ---
+ 
+Pump flowrate required: 1070.8635 gpm 
+ 
+Pump head required: 357.5372 ft 
+ 
+Pump impeller rotational speed: 3600 rpm 
+ 
+Pump specific speed: 1502.7094 
+ 
+
+--- Graph Parameters ---
+ 
+Head Constant: 1.0514 
+ 
+Capacity Constant: 0.1107 
+ 
+Impeller Radius Ratio: 0.50574 
+ 
+Volute Velocity Constant: 0.4081 
+ 
+
+--- Impeller Design Properties ---
+ 
+Impeller blade width: 6.35 mm 
+ 
+Number of vanes on impeller: 6 
+ 
+Vane inlet angle: 21.3928 deg 
+ 
+Vane discharge angle: 15 deg 
+ 
+Impeller outer radius: 129.049 mm 
+ 
+Impeller inner radius: 65.2657 mm 
+ 
+Impeller width: 17.0925 mm 
+ 
+
+--- Pump Power Requirements and Efficency ---
+ 
+Pump hydraulic power: 72180.602 W 
+ 
+Required torque: 272.9832 N.m 
+ 
+Pump shaft power: 102912.2599 W 
+ 
+Pump efficency: 70.138 
+--- Pump Shaft Design ---
+ 
+Shaft diameter calculated (SF = 1.5):24.6897 mm. 
+
+--- Volute Design Properties ---
+ 
+Volute inner width: 29.9119 mm 
+ 
+Volute outer width: 77.526 mm 
+ 
+Cutwater radius: 136.7919 mm 
+ 
+Volute exit area: 3581.2284 mm^2 
+ 
+Volute exit diameter: 67.526 mm 
+ 
+Volute revolution: 0.875  
+ 
+Volute spiral pitch: 21.4938 mm 
+ 
+Pump minimum wall thickness: 5 mm 
+ 
+
+--- O-rings ---
+ 
+O-ring clearance for operational pressure: 0.16302 mm
+ 
+O-ring cross-section diameter: 5 mm 
+ 
+O-ring inner diameter: 41.9107 mm 
+ 
+O-ring groove depth: 3.337 mm 
+ 
+O-ring groove width: 7.8454 mm 
+ 
+
+******** Suction Pump Design ********
+ 
+
+--- Pump Operational Properties ---
+ 
+Pump flowrate required: 1070.8635 gpm 
+ 
+Pump head required: 357.5372 ft 
+ 
+Pump impeller rotational speed: 3600 rpm 
+ 
+Pump specific speed: 1502.7094 
+ 
+
+--- Graph Parameters ---
+ 
+Head Constant: 1.0514 
+ 
+Capacity Constant: 0.1107 
+ 
+Impeller Radius Ratio: 0.50574 
+ 
+Volute Velocity Constant: 0.4081 
+ 
+
+--- Impeller Design Properties ---
+ 
+Impeller blade width: 6.35 mm 
+ 
+Number of vanes on impeller: 6 
+ 
+Vane inlet angle: 21.3928 deg 
+ 
+Vane discharge angle: 15 deg 
+ 
+Impeller outer radius: 129.049 mm 
+ 
+Impeller inner radius: 65.2657 mm 
+ 
+Impeller width: 17.0925 mm 
+ 
+
+--- Pump Power Requirements and Efficency ---
+ 
+Pump hydraulic power: 72180.602 W 
+ 
+Required torque: 272.9832 N.m 
+ 
+Pump shaft power: 102912.2599 W 
+ 
+Pump efficency: 70.138 
+--- Pump Shaft Design ---
+ 
+Shaft diameter calculated (SF = 1.5):24.6897 mm. 
+
+--- Volute Design Properties ---
+ 
+Volute inner width: 29.9119 mm 
+ 
+Volute outer width: 77.526 mm 
+ 
+Cutwater radius: 136.7919 mm 
+ 
+Volute exit area: 3581.2284 mm^2 
+ 
+Volute exit diameter: 67.526 mm 
+ 
+Volute revolution: 0.875  
+ 
+Volute spiral pitch: 21.4938 mm 
+ 
+Pump minimum wall thickness: 5 mm 
+ 
+
+--- O-rings ---
+ 
+O-ring clearance for operational pressure: 0.16302 mm
+ 
+O-ring cross-section diameter: 5 mm 
+ 
+O-ring inner diameter: 41.9107 mm 
+ 
+O-ring groove depth: 3.337 mm 
+ 
+O-ring groove width: 7.8454 mm 
+ 
+
+******** Suction Pump Design ********
+ 
+
+--- Pump Operational Properties ---
+ 
+Pump flowrate required: 1070.8635 gpm 
+ 
+Pump head required: 357.5372 ft 
+ 
+Pump impeller rotational speed: 3600 rpm 
+ 
+Pump specific speed: 1502.7094 
+ 
+
+--- Graph Parameters ---
+ 
+Head Constant: 1.0514 
+ 
+Capacity Constant: 0.1107 
+ 
+Impeller Radius Ratio: 0.50574 
+ 
+Volute Velocity Constant: 0.4081 
+ 
+
+--- Impeller Design Properties ---
+ 
+Impeller blade width: 6.35 mm 
+ 
+Number of vanes on impeller: 6 
+ 
+Vane inlet angle: 21.3928 deg 
+ 
+Vane discharge angle: 15 deg 
+ 
+Impeller outer radius: 129.049 mm 
+ 
+Impeller inner radius: 65.2657 mm 
+ 
+Impeller width: 17.0925 mm 
+ 
+
+--- Pump Power Requirements and Efficency ---
+ 
+Pump hydraulic power: 72180.602 W 
+ 
+Required torque: 272.9832 N.m 
+ 
+Pump shaft power: 102912.2599 W 
+ 
+Pump efficency: 70.138 
+--- Pump Shaft Design ---
+ 
+Shaft diameter calculated (SF = 1.5):24.6897 mm. 
+
+--- Volute Design Properties ---
+ 
+Volute inner width: 29.9119 mm 
+ 
+Volute outer width: 77.526 mm 
+ 
+Cutwater radius: 136.7919 mm 
+ 
+Volute exit area: 3581.2284 mm^2 
+ 
+Volute exit diameter: 67.526 mm 
+ 
+Volute revolution: 0.875  
+ 
+Volute spiral pitch: 21.4938 mm 
+ 
+Pump minimum wall thickness: 5 mm 
+ 
+
+--- O-rings ---
+ 
+O-ring clearance for operational pressure: 0.16302 mm
+ 
+O-ring cross-section diameter: 5 mm 
+ 
+O-ring inner diameter: 41.9107 mm 
+ 
+O-ring groove depth: 3.337 mm 
+ 
+O-ring groove width: 7.8454 mm 
+ 
+
+******** Suction Pump Design ********
+ 
+
+--- Pump Operational Properties ---
+ 
+Pump flowrate required: 1070.8635 gpm 
+ 
+Pump head required: 357.5372 ft 
+ 
+Pump impeller rotational speed: 3600 rpm 
+ 
+Pump specific speed: 1502.7094 
+ 
+
+--- Graph Parameters ---
+ 
+Head Constant: 1.0514 
+ 
+Capacity Constant: 0.1107 
+ 
+Impeller Radius Ratio: 0.50574 
+ 
+Volute Velocity Constant: 0.4081 
+ 
+
+--- Impeller Design Properties ---
+ 
+Impeller blade width: 6.35 mm 
+ 
+Number of vanes on impeller: 6 
+ 
+Vane inlet angle: 21.3928 deg 
+ 
+Vane discharge angle: 15 deg 
+ 
+Impeller outer radius: 129.049 mm 
+ 
+Impeller inner radius: 65.2657 mm 
+ 
+Impeller width: 17.0925 mm 
+ 
+
+--- Pump Power Requirements and Efficency ---
+ 
+Pump hydraulic power: 72180.602 W 
+ 
+Required torque: 272.9832 N.m 
+ 
+Pump shaft power: 102912.2599 W 
+ 
+Pump efficency: 70.138 
+--- Pump Shaft Design ---
+ 
+Shaft diameter calculated (SF = 1.5):24.6897 mm. 
+
+--- Volute Design Properties ---
+ 
+Volute inner width: 29.9119 mm 
+ 
+Volute outer width: 77.526 mm 
+ 
+Cutwater radius: 136.7919 mm 
+ 
+Volute exit area: 3581.2284 mm^2 
+ 
+Volute exit diameter: 67.526 mm 
+ 
+Volute revolution: 0.875  
+ 
+Volute spiral pitch: 21.4938 mm 
+ 
+Pump minimum wall thickness: 5 mm 
+ 
+
+--- O-rings ---
+ 
+O-ring clearance for operational pressure: 0.16302 mm
+ 
+O-ring cross-section diameter: 5 mm 
+ 
+O-ring inner diameter: 41.9107 mm 
+ 
+O-ring groove depth: 3.337 mm 
+ 
+O-ring groove width: 7.8454 mm 
+ 
+
+******** Suction Pump Design ********
+ 
+
+--- Pump Operational Properties ---
+ 
+Pump flowrate required: 1070.8635 gpm 
+ 
+Pump head required: 357.5372 ft 
+ 
+Pump impeller rotational speed: 3600 rpm 
+ 
+Pump specific speed: 1502.7094 
+ 
+
+--- Graph Parameters ---
+ 
+Head Constant: 1.0514 
+ 
+Capacity Constant: 0.1107 
+ 
+Impeller Radius Ratio: 0.50574 
+ 
+Volute Velocity Constant: 0.4081 
+ 
+
+--- Impeller Design Properties ---
+ 
+Impeller blade width: 6.35 mm 
+ 
+Number of vanes on impeller: 6 
+ 
+Vane inlet angle: 21.3928 deg 
+ 
+Vane discharge angle: 15 deg 
+ 
+Impeller outer radius: 129.049 mm 
+ 
+Impeller inner radius: 65.2657 mm 
+ 
+Impeller width: 17.0925 mm 
+ 
+
+--- Pump Power Requirements and Efficency ---
+ 
+Pump hydraulic power: 72180.602 W 
+ 
+Required torque: 272.9832 N.m 
+ 
+Pump shaft power: 102912.2599 W 
+ 
+Pump efficency: 70.138 
+--- Pump Shaft Design ---
+ 
+Shaft diameter calculated (SF = 1.5):24.6897 mm. 
+
+--- Volute Design Properties ---
+ 
+Volute inner width: 29.9119 mm 
+ 
+Volute outer width: 77.526 mm 
+ 
+Cutwater radius: 136.7919 mm 
+ 
+Volute exit area: 3581.2284 mm^2 
+ 
+Volute exit diameter: 67.526 mm 
+ 
+Volute revolution: 0.875  
+ 
+Volute spiral pitch: 21.4938 mm 
+ 
+Pump minimum wall thickness: 5 mm 
+ 
+
+--- O-rings ---
+ 
+O-ring clearance for operational pressure: 0.16302 mm
+ 
+O-ring cross-section diameter: 5 mm 
+ 
+O-ring inner diameter: 41.9107 mm 
+ 
+O-ring groove depth: 3.337 mm 
+ 
+O-ring groove width: 7.8454 mm 
+ 
+
+******** Suction Pump Design ********
+ 
+
+--- Pump Operational Properties ---
+ 
+Pump flowrate required: 1070.8635 gpm 
+ 
+Pump head required: 357.5372 ft 
+ 
+Pump impeller rotational speed: 3600 rpm 
+ 
+Pump specific speed: 1502.7094 
+ 
+
+--- Graph Parameters ---
+ 
+Head Constant: 1.0514 
+ 
+Capacity Constant: 0.1107 
+ 
+Impeller Radius Ratio: 0.50574 
+ 
+Volute Velocity Constant: 0.4081 
+ 
+
+--- Impeller Design Properties ---
+ 
+Impeller blade width: 6.35 mm 
+ 
+Number of vanes on impeller: 6 
+ 
+Vane inlet angle: 21.3928 deg 
+ 
+Vane discharge angle: 15 deg 
+ 
+Impeller outer radius: 129.049 mm 
+ 
+Impeller inner radius: 65.2657 mm 
+ 
+Impeller width: 17.0925 mm 
+ 
+
+--- Pump Power Requirements and Efficency ---
+ 
+Pump hydraulic power: 72180.602 W 
+ 
+Required torque: 272.9832 N.m 
+ 
+Pump shaft power: 102912.2599 W 
+ 
+Pump efficency: 70.138 
+--- Pump Shaft Design ---
+ 
+Shaft diameter calculated (SF = 1.5):24.6897 mm. 
+
+--- Volute Design Properties ---
+ 
+Volute inner width: 29.9119 mm 
+ 
+Volute outer width: 77.526 mm 
+ 
+Cutwater radius: 136.7919 mm 
+ 
+Volute exit area: 3581.2284 mm^2 
+ 
+Volute exit diameter: 67.526 mm 
+ 
+Volute revolution: 0.875  
+ 
+Volute spiral pitch: 21.4938 mm 
+ 
+Pump minimum wall thickness: 5 mm 
+ 
+
+--- O-rings ---
+ 
+O-ring clearance for operational pressure: 0.16302 mm
+ 
+O-ring cross-section diameter: 5 mm 
+ 
+O-ring inner diameter: 41.9107 mm 
+ 
+O-ring groove depth: 3.337 mm 
+ 
+O-ring groove width: 7.8454 mm 
+ 
+
+******** Suction Pump Design ********
+ 
+
+--- Pump Operational Properties ---
+ 
+Pump flowrate required: 1070.8635 gpm 
+ 
+Pump head required: 357.5372 ft 
+ 
+Pump impeller rotational speed: 3600 rpm 
+ 
+Pump specific speed: 1502.7094 
+ 
+
+--- Graph Parameters ---
+ 
+Head Constant: 1.0514 
+ 
+Capacity Constant: 0.1107 
+ 
+Impeller Radius Ratio: 0.50574 
+ 
+Volute Velocity Constant: 0.4081 
+ 
+
+--- Impeller Design Properties ---
+ 
+Impeller blade width: 6.35 mm 
+ 
+Number of vanes on impeller: 6 
+ 
+Vane inlet angle: 21.3928 deg 
+ 
+Vane discharge angle: 15 deg 
+ 
+Impeller outer radius: 129.049 mm 
+ 
+Impeller inner radius: 65.2657 mm 
+ 
+Impeller width: 17.0925 mm 
+ 
+
+--- Pump Power Requirements and Efficency ---
+ 
+Pump hydraulic power: 72180.602 W 
+ 
+Required torque: 272.9832 N.m 
+ 
+Pump shaft power: 102912.2599 W 
+ 
+Pump efficency: 70.138 
+--- Pump Shaft Design ---
+ 
+Shaft diameter calculated (SF = 1.5):24.6897 mm. 
+
+--- Volute Design Properties ---
+ 
+Volute inner width: 29.9119 mm 
+ 
+Volute outer width: 77.526 mm 
+ 
+Cutwater radius: 136.7919 mm 
+ 
+Volute exit area: 3581.2284 mm^2 
+ 
+Volute exit diameter: 67.526 mm 
+ 
+Volute revolution: 0.875  
+ 
+Volute spiral pitch: 21.4938 mm 
+ 
+Pump minimum wall thickness: 5 mm 
+ 
+
+--- O-rings ---
+ 
+O-ring clearance for operational pressure: 0.16302 mm
+ 
+O-ring cross-section diameter: 5 mm 
+ 
+O-ring inner diameter: 41.9107 mm 
+ 
+O-ring groove depth: 3.337 mm 
+ 
+O-ring groove width: 7.8454 mm 
+ 
+
+******** Suction Pump Design ********
+ 
+
+--- Pump Operational Properties ---
+ 
+Pump flowrate required: 1070.8635 gpm 
+ 
+Pump head required: 357.5372 ft 
+ 
+Pump impeller rotational speed: 3600 rpm 
+ 
+Pump specific speed: 1502.7094 
+ 
+
+--- Graph Parameters ---
+ 
+Head Constant: 1.0514 
+ 
+Capacity Constant: 0.1107 
+ 
+Impeller Radius Ratio: 0.50574 
+ 
+Volute Velocity Constant: 0.4081 
+ 
+
+--- Impeller Design Properties ---
+ 
+Impeller blade width: 6.35 mm 
+ 
+Number of vanes on impeller: 6 
+ 
+Vane inlet angle: 21.3928 deg 
+ 
+Vane discharge angle: 15 deg 
+ 
+Impeller outer radius: 129.049 mm 
+ 
+Impeller inner radius: 65.2657 mm 
+ 
+Impeller width: 17.0925 mm 
+ 
+
+--- Pump Power Requirements and Efficency ---
+ 
+Pump hydraulic power: 72180.602 W 
+ 
+Required torque: 272.9832 N.m 
+ 
+Pump shaft power: 102912.2599 W 
+ 
+Pump efficency: 70.138 
+--- Pump Shaft Design ---
+ 
+Shaft diameter calculated (SF = 1.5):24.6897 mm. 
+
+--- Volute Design Properties ---
+ 
+Volute inner width: 29.9119 mm 
+ 
+Volute outer width: 77.526 mm 
+ 
+Cutwater radius: 136.7919 mm 
+ 
+Volute exit area: 3581.2284 mm^2 
+ 
+Volute exit diameter: 67.526 mm 
+ 
+Volute revolution: 0.875  
+ 
+Volute spiral pitch: 21.4938 mm 
+ 
+Pump minimum wall thickness: 5 mm 
+ 
+
+--- O-rings ---
+ 
+O-ring clearance for operational pressure: 0.16302 mm
+ 
+O-ring cross-section diameter: 5 mm 
+ 
+O-ring inner diameter: 41.9107 mm 
+ 
+O-ring groove depth: 3.337 mm 
+ 
+O-ring groove width: 7.8454 mm 
+ 
+
+******** Suction Pump Design ********
+ 
+
+--- Pump Operational Properties ---
+ 
+Pump flowrate required: 1070.8635 gpm 
+ 
+Pump head required: 357.5372 ft 
+ 
+Pump impeller rotational speed: 3600 rpm 
+ 
+Pump specific speed: 1502.7094 
+ 
+
+--- Graph Parameters ---
+ 
+Head Constant: 1.0514 
+ 
+Capacity Constant: 0.1107 
+ 
+Impeller Radius Ratio: 0.50574 
+ 
+Volute Velocity Constant: 0.4081 
+ 
+
+--- Impeller Design Properties ---
+ 
+Impeller blade width: 6.35 mm 
+ 
+Number of vanes on impeller: 6 
+ 
+Vane inlet angle: 21.3928 deg 
+ 
+Vane discharge angle: 15 deg 
+ 
+Impeller outer radius: 129.049 mm 
+ 
+Impeller inner radius: 65.2657 mm 
+ 
+Impeller width: 17.0925 mm 
+ 
+
+--- Pump Power Requirements and Efficency ---
+ 
+Pump hydraulic power: 72180.602 W 
+ 
+Required torque: 272.9832 N.m 
+ 
+Pump shaft power: 102912.2599 W 
+ 
+Pump efficency: 70.138 
+--- Pump Shaft Design ---
+ 
+Shaft diameter calculated (SF = 1.5):24.6897 mm. 
+
+--- Volute Design Properties ---
+ 
+Volute inner width: 29.9119 mm 
+ 
+Volute outer width: 77.526 mm 
+ 
+Cutwater radius: 136.7919 mm 
+ 
+Volute exit area: 3581.2284 mm^2 
+ 
+Volute exit diameter: 67.526 mm 
+ 
+Volute revolution: 0.875  
+ 
+Volute spiral pitch: 21.4938 mm 
+ 
+Pump minimum wall thickness: 5 mm 
+ 
+
+--- O-rings ---
+ 
+O-ring clearance for operational pressure: 0.16302 mm
+ 
+O-ring cross-section diameter: 5 mm 
+ 
+O-ring inner diameter: 41.9107 mm 
+ 
+O-ring groove depth: 3.337 mm 
+ 
+O-ring groove width: 7.8454 mm 
+ 
+
+******** Suction System Design ********
+ 
+
+--- Sea Water Properties ---
+ 
+Desnity: 1028 kg/m^3 
+ 
+Dynamic viscosity: 0.00167 Pa.s 
+ 
+
+--- Other Parameters ---
+ 
+Pipe roughness (stainless steel): 0.015 
+ 
+clamshell height: 1 m 
+ 
+
+--- Assumed Parameters (based on worse case scenario) ---
+ 
+Clamshell fully open angle: 10 degress 
+ 
+Length of rigid pipe with diamter D_f: 2 m 
+ 
+Length of flexible pipe with diamter D_f: 3 m 
+ 
+Length of rigid pipe with diameter D_s: 4 m 
+ 
+Vertical distance between suction inlet and outlet: 5 m 
+ 
+
+--- Parameters of Smaller Pipe ---
+ 
+Diameter: 0.127 m 
+ 
+Reynolds Number: 2728.9007 
+ 
+Friction Factor: 0.12107 
+ 
+Fluid Velocity: 2.7556 m/s 
+ 
+
+--- Parameters of Larger Pipe ---
+ 
+Diameter: 0.2032 m 
+ 
+Reynolds Number: 8732.4821 
+ 
+Friction Factor: 0.090077 
+ 
+Fluid Velocity: 2.1528 m/s 
+ 
+
+--- System Pressure Losses ---
+ 
+Major Losses: 18.0596 m^2/s^2 
+ 
+Minor Losses: 686.144 m^2/s^2 
+ 
+
+--- Suction System Calculated Values ---
+ 
+Required maximum flow rate: 0.069813 m^3/s 
+ 
+Required pump head: 755.5709 m^2/s^2 
+ 
+Required pump head: 776.7269 kPa 
+ 
+Required pump head: 79.2244 m 
+ 
+Maximum system pressure: 152.336 kPa 
+ 
+Minimum system pressure: -624.3909 kPa 
+ 
+Pipe thickness: 2 mm 
+ 
+
+******** Suction System Design ********
+ 
+
+--- Sea Water Properties ---
+ 
+Desnity: 1028 kg/m^3 
+ 
+Dynamic viscosity: 0.00167 Pa.s 
+ 
+
+--- Other Parameters ---
+ 
+Pipe roughness (stainless steel): 0.015 
+ 
+clamshell height: 1 m 
+ 
+
+--- Assumed Parameters (based on worse case scenario) ---
+ 
+Clamshell fully open angle: 10 degress 
+ 
+Length of rigid pipe with diamter D_f: 2 m 
+ 
+Length of flexible pipe with diamter D_f: 3 m 
+ 
+Length of rigid pipe with diameter D_s: 4 m 
+ 
+Vertical distance between suction inlet and outlet: 5 m 
+ 
+
+--- Parameters of Smaller Pipe ---
+ 
+Diameter: 0.127 m 
+ 
+Reynolds Number: 2728.9007 
+ 
+Friction Factor: 0.12107 
+ 
+Fluid Velocity: 2.7556 m/s 
+ 
+
+--- Parameters of Larger Pipe ---
+ 
+Diameter: 0.2032 m 
+ 
+Reynolds Number: 8732.4821 
+ 
+Friction Factor: 0.090077 
+ 
+Fluid Velocity: 2.1528 m/s 
+ 
+
+--- System Pressure Losses ---
+ 
+Major Losses: 18.0596 m^2/s^2 
+ 
+Minor Losses: 686.144 m^2/s^2 
+ 
+
+--- Suction System Calculated Values ---
+ 
+Required maximum flow rate: 0.069813 m^3/s 
+ 
+Required pump head: 755.5709 m^2/s^2 
+ 
+Required pump head: 776.7269 kPa 
+ 
+Required pump head: 79.2244 m 
+ 
+Maximum system pressure: 152.336 kPa 
+ 
+Minimum system pressure: -624.3909 kPa 
+ 
+Pipe thickness: 5 mm 
+ 
+
+******** Suction Pump Design ********
+ 
+
+--- Pump Operational Properties ---
+ 
+Pump flowrate required: 1106.5611 gpm 
+ 
+Pump head required: 259.9352 ft 
+ 
+Pump impeller rotational speed: 3600 rpm 
+ 
+Pump specific speed: 1940.1608 
+ 
+
+--- Graph Parameters ---
+ 
+Head Constant: 1.0864 
+ 
+Capacity Constant: 0.13368 
+ 
+Impeller Radius Ratio: 0.54511 
+ 
+Volute Velocity Constant: 0.36579 
+ 
+
+--- Impeller Design Properties ---
+ 
+Impeller blade width: 6.35 mm 
+ 
+Number of vanes on impeller: 6 
+ 
+Vane inlet angle: 21.3783 deg 
+ 
+Vane discharge angle: 15 deg 
+ 
+Impeller outer radius: 113.6963 mm 
+ 
+Impeller inner radius: 61.9775 mm 
+ 
+Impeller width: 19.6007 mm 
+ 
+
+--- Pump Power Requirements and Efficency ---
+ 
+Pump hydraulic power: 54225.7654 W 
+ 
+Required torque: 197.9153 N.m 
+ 
+Pump shaft power: 74612.3229 W 
+ 
+Pump efficency: 72.6767 
+--- Pump Shaft Design ---
+ 
+Shaft diameter calculated (SF = 1.5):22.1801 mm. 
+
+--- Volute Design Properties ---
+ 
+Volute inner width: 34.3012 mm 
+ 
+Volute outer width: 88.5184 mm 
+ 
+Cutwater radius: 120.5181 mm 
+ 
+Volute exit area: 4842.092 mm^2 
+ 
+Volute exit diameter: 78.5184 mm 
+ 
+Volute revolution: 0.875  
+ 
+Volute spiral pitch: 25.267 mm 
+ 
+Pump minimum wall thickness: 5 mm 
+ 
+
+--- O-rings ---
+ 
+O-ring clearance for operational pressure: 0.16302 mm
+ 
+O-ring cross-section diameter: 5 mm 
+ 
+O-ring inner diameter: 37.6507 mm 
+ 
+O-ring groove depth: 3.337 mm 
+ 
+O-ring groove width: 7.8454 mm 
+ 
+
+******** Suction System Design ********
+ 
+
+--- Sea Water Properties ---
+ 
+Desnity: 1028 kg/m^3 
+ 
+Dynamic viscosity: 0.00167 Pa.s 
+ 
+
+--- Other Parameters ---
+ 
+Pipe roughness (stainless steel): 0.015 
+ 
+clamshell height: 1 m 
+ 
+
+--- Assumed Parameters (based on worse case scenario) ---
+ 
+Clamshell fully open angle: 10 degress 
+ 
+Length of rigid pipe with diamter D_f: 2 m 
+ 
+Length of flexible pipe with diamter D_f: 3 m 
+ 
+Length of rigid pipe with diameter D_s: 4 m 
+ 
+Vertical distance between suction inlet and outlet: 5 m 
+ 
+
+--- Parameters of Smaller Pipe ---
+ 
+Diameter: 0.127 m 
+ 
+Reynolds Number: 2728.9007 
+ 
+Friction Factor: 0.12107 
+ 
+Fluid Velocity: 2.7556 m/s 
+ 
+
+--- Parameters of Larger Pipe ---
+ 
+Diameter: 0.2032 m 
+ 
+Reynolds Number: 8732.4821 
+ 
+Friction Factor: 0.090077 
+ 
+Fluid Velocity: 2.1528 m/s 
+ 
+
+--- System Pressure Losses ---
+ 
+Major Losses: 18.0596 m^2/s^2 
+ 
+Minor Losses: 686.144 m^2/s^2 
+ 
+
+--- Suction System Calculated Values ---
+ 
+Required maximum flow rate: 0.069813 m^3/s 
+ 
+Required pump head: 755.5709 m^2/s^2 
+ 
+Required pump head: 776.7269 kPa 
+ 
+Required pump head: 79.2244 m 
+ 
+Maximum system pressure: 152.336 kPa 
+ 
+Minimum system pressure: -624.3909 kPa 
+ 
+Pipe thickness: 5 mm 
+ 
+
+******** Suction Pump Design ********
+ 
+
+--- Pump Operational Properties ---
+ 
+Pump flowrate required: 885.2489 gpm 
+ 
+Pump head required: 366.1562 ft 
+ 
+Pump impeller rotational speed: 3600 rpm 
+ 
+Pump specific speed: 1342.0902 
+ 
+
+--- Graph Parameters ---
+ 
+Head Constant: 1.0386 
+ 
+Capacity Constant: 0.10184 
+ 
+Impeller Radius Ratio: 0.49129 
+ 
+Volute Velocity Constant: 0.42652 
+ 
+
+--- Impeller Design Properties ---
+ 
+Impeller blade width: 6.35 mm 
+ 
+Number of vanes on impeller: 6 
+ 
+Vane inlet angle: 21.1377 deg 
+ 
+Vane discharge angle: 15 deg 
+ 
+Impeller outer radius: 128.9992 mm 
+ 
+Impeller inner radius: 63.3758 mm 
+ 
+Impeller width: 15.1838 mm 
+ 
+
+--- Pump Power Requirements and Efficency ---
+ 
+Pump hydraulic power: 61107.8521 W 
+ 
+Required torque: 234.7453 N.m 
+ 
+Pump shaft power: 88496.8858 W 
+ 
+Pump efficency: 69.0509 
+--- Pump Shaft Design ---
+ 
+Shaft diameter calculated (SF = 1.5):23.4784 mm. 
+
+--- Volute Design Properties ---
+ 
+Volute inner width: 26.5717 mm 
+ 
+Volute outer width: 69.6989 mm 
+ 
+Cutwater radius: 136.7391 mm 
+ 
+Volute exit area: 2799.1237 mm^2 
+ 
+Volute exit diameter: 59.6989 mm 
+ 
+Volute revolution: 0.875  
+ 
+Volute spiral pitch: 18.9298 mm 
+ 
+Pump minimum wall thickness: 5 mm 
+ 
+
+--- O-rings ---
+ 
+O-ring clearance for operational pressure: 0.16302 mm
+ 
+O-ring cross-section diameter: 5 mm 
+ 
+O-ring inner diameter: 39.8546 mm 
+ 
+O-ring groove depth: 3.337 mm 
+ 
+O-ring groove width: 7.8454 mm 
+ 
+
+******** Suction System Design ********
+ 
+
+--- Sea Water Properties ---
+ 
+Desnity: 1028 kg/m^3 
+ 
+Dynamic viscosity: 0.00167 Pa.s 
+ 
+
+--- Other Parameters ---
+ 
+Pipe roughness (stainless steel): 0.015 
+ 
+clamshell height: 1 m 
+ 
+
+--- Assumed Parameters (based on worse case scenario) ---
+ 
+Clamshell fully open angle: 10 degress 
+ 
+Length of rigid pipe with diamter D_f: 2 m 
+ 
+Length of flexible pipe with diamter D_f: 3 m 
+ 
+Length of rigid pipe with diameter D_s: 4 m 
+ 
+Vertical distance between suction inlet and outlet: 5 m 
+ 
+
+--- Parameters of Smaller Pipe ---
+ 
+Diameter: 0.1016 m 
+ 
+Reynolds Number: 1746.4964 
+ 
+Friction Factor: 0.036645 
+ 
+Fluid Velocity: 3.4445 m/s 
+ 
+
+--- Parameters of Larger Pipe ---
+ 
+Diameter: 0.1524 m 
+ 
+Reynolds Number: 5239.4893 
+ 
+Friction Factor: 0.10612 
+ 
+Fluid Velocity: 3.0617 m/s 
+ 
+
+--- System Pressure Losses ---
+ 
+Major Losses: 24.0457 m^2/s^2 
+ 
+Minor Losses: 986.5478 m^2/s^2 
+ 
+
+--- Suction System Calculated Values ---
+ 
+Required maximum flow rate: 0.055851 m^3/s 
+ 
+Required pump head: 1064.3306 m^2/s^2 
+ 
+Required pump head: 1094.1319 kPa 
+ 
+Required pump head: 111.599 m 
+ 
+Maximum system pressure: 355.8319 kPa 
+ 
+Minimum system pressure: -738.3 kPa 
+ 
+Pipe thickness: 5 mm 
+ 
+
+******** Suction Pump Design ********
+ 
+
+--- Pump Operational Properties ---
+ 
+Pump flowrate required: 553.2805 gpm 
+ 
+Pump head required: 351.2029 ft 
+ 
+Pump impeller rotational speed: 3600 rpm 
+ 
+Pump specific speed: 1094.7199 
+ 
+
+--- Graph Parameters ---
+ 
+Head Constant: 1.0188 
+ 
+Capacity Constant: 0.087616 
+ 
+Impeller Radius Ratio: 0.46902 
+ 
+Volute Velocity Constant: 0.45791 
+ 
+
+--- Impeller Design Properties ---
+ 
+Impeller blade width: 6.35 mm 
+ 
+Number of vanes on impeller: 6 
+ 
+Vane inlet angle: 20.3703 deg 
+ 
+Vane discharge angle: 15 deg 
+ 
+Impeller outer radius: 123.9303 mm 
+ 
+Impeller inner radius: 58.1264 mm 
+ 
+Impeller width: 11.7467 mm 
+ 
+
+--- Pump Power Requirements and Efficency ---
+ 
+Pump hydraulic power: 36632.6772 W 
+ 
+Required torque: 144.4346 N.m 
+ 
+Pump shaft power: 54450.5591 W 
+ 
+Pump efficency: 67.277 
+--- Pump Shaft Design ---
+ 
+Shaft diameter calculated (SF = 1.5):19.9692 mm. 
+
+--- Volute Design Properties ---
+ 
+Volute inner width: 20.5568 mm 
+ 
+Volute outer width: 56.027 mm 
+ 
+Cutwater radius: 131.3661 mm 
+ 
+Volute exit area: 1663.854 mm^2 
+ 
+Volute exit diameter: 46.027 mm 
+ 
+Volute revolution: 0.875  
+ 
+Volute spiral pitch: 14.5544 mm 
+ 
+Pump minimum wall thickness: 5 mm 
+ 
+
+--- O-rings ---
+ 
+O-ring clearance for operational pressure: 0.16302 mm
+ 
+O-ring cross-section diameter: 5 mm 
+ 
+O-ring inner diameter: 33.8977 mm 
+ 
+O-ring groove depth: 3.337 mm 
+ 
+O-ring groove width: 7.8454 mm 
+ 
+
+******** Suction System Design ********
+ 
+
+--- Sea Water Properties ---
+ 
+Desnity: 1028 kg/m^3 
+ 
+Dynamic viscosity: 0.00167 Pa.s 
+ 
+
+--- Other Parameters ---
+ 
+Pipe roughness (stainless steel): 0.015 
+ 
+clamshell height: 1 m 
+ 
+
+--- Assumed Parameters (based on worse case scenario) ---
+ 
+Clamshell fully open angle: 10 degress 
+ 
+Length of rigid pipe with diamter D_f: 2 m 
+ 
+Length of flexible pipe with diamter D_f: 3 m 
+ 
+Length of rigid pipe with diameter D_s: 4 m 
+ 
+Vertical distance between suction inlet and outlet: 5 m 
+ 
+
+--- Parameters of Smaller Pipe ---
+ 
+Diameter: 0.1016 m 
+ 
+Reynolds Number: 1091.5603 
+ 
+Friction Factor: 0.058632 
+ 
+Fluid Velocity: 2.1528 m/s 
+ 
+
+--- Parameters of Larger Pipe ---
+ 
+Diameter: 0.127 m 
+ 
+Reynolds Number: 2728.9007 
+ 
+Friction Factor: 0.12107 
+ 
+Fluid Velocity: 2.7556 m/s 
+ 
+
+--- System Pressure Losses ---
+ 
+Major Losses: 23.8639 m^2/s^2 
+ 
+Minor Losses: 944.1542 m^2/s^2 
+ 
+
+--- Suction System Calculated Values ---
+ 
+Required maximum flow rate: 0.034907 m^3/s 
+ 
+Required pump head: 1020.8647 m^2/s^2 
+ 
+Required pump head: 1049.4489 kPa 
+ 
+Required pump head: 107.0414 m 
+ 
+Maximum system pressure: 329.1885 kPa 
+ 
+Minimum system pressure: -720.2604 kPa 
+ 
+Pipe thickness: 5 mm 
+ 
+
+******** Suction Pump Design ********
+ 
+
+--- Pump Operational Properties ---
+ 
+Pump flowrate required: 553.2805 gpm 
+ 
+Pump head required: 351.2029 ft 
+ 
+Pump impeller rotational speed: 3600 rpm 
+ 
+Pump specific speed: 1094.7199 
+ 
+
+--- Graph Parameters ---
+ 
+Head Constant: 1.0188 
+ 
+Capacity Constant: 0.087616 
+ 
+Impeller Radius Ratio: 0.46902 
+ 
+Volute Velocity Constant: 0.45791 
+ 
+
+--- Impeller Design Properties ---
+ 
+Impeller blade width: 6.35 mm 
+ 
+Number of vanes on impeller: 6 
+ 
+Vane inlet angle: 20.3703 deg 
+ 
+Vane discharge angle: 15 deg 
+ 
+Impeller outer radius: 123.9303 mm 
+ 
+Impeller inner radius: 58.1264 mm 
+ 
+Impeller width: 11.7467 mm 
+ 
+
+--- Pump Power Requirements and Efficency ---
+ 
+Pump hydraulic power: 36632.6772 W 
+ 
+Required torque: 144.4346 N.m 
+ 
+Pump shaft power: 54450.5591 W 
+ 
+Pump efficency: 67.277 
+--- Pump Shaft Design ---
+ 
+Shaft diameter calculated (SF = 1.5):19.9692 mm. 
+
+--- Volute Design Properties ---
+ 
+Volute inner width: 20.5568 mm 
+ 
+Volute outer width: 56.027 mm 
+ 
+Cutwater radius: 131.3661 mm 
+ 
+Volute exit area: 1663.854 mm^2 
+ 
+Volute exit diameter: 46.027 mm 
+ 
+Volute revolution: 0.875  
+ 
+Volute spiral pitch: 14.5544 mm 
+ 
+Pump minimum wall thickness: 5 mm 
+ 
+
+--- O-rings ---
+ 
+O-ring clearance for operational pressure: 0.16302 mm
+ 
+O-ring cross-section diameter: 5 mm 
+ 
+O-ring inner diameter: 33.8977 mm 
+ 
+O-ring groove depth: 3.337 mm 
+ 
+O-ring groove width: 7.8454 mm 
+ 
+
+******** Suction System Design ********
+ 
+
+--- Sea Water Properties ---
+ 
+Desnity: 1028 kg/m^3 
+ 
+Dynamic viscosity: 0.00167 Pa.s 
+ 
+
+--- Other Parameters ---
+ 
+Pipe roughness (stainless steel): 0.015 
+ 
+clamshell height: 1 m 
+ 
+
+--- Assumed Parameters (based on worse case scenario) ---
+ 
+Clamshell fully open angle: 10 degress 
+ 
+Length of rigid pipe with diamter D_f: 2 m 
+ 
+Length of flexible pipe with diamter D_f: 3 m 
+ 
+Length of rigid pipe with diameter D_s: 4 m 
+ 
+Vertical distance between suction inlet and outlet: 5 m 
+ 
+
+--- Parameters of Smaller Pipe ---
+ 
+Diameter: 0.1016 m 
+ 
+Reynolds Number: 1091.5603 
+ 
+Friction Factor: 0.058632 
+ 
+Fluid Velocity: 2.1528 m/s 
+ 
+
+--- Parameters of Larger Pipe ---
+ 
+Diameter: 0.127 m 
+ 
+Reynolds Number: 2728.9007 
+ 
+Friction Factor: 0.12107 
+ 
+Fluid Velocity: 2.7556 m/s 
+ 
+
+--- System Pressure Losses ---
+ 
+Major Losses: 23.8639 m^2/s^2 
+ 
+Minor Losses: 944.1542 m^2/s^2 
+ 
+
+--- Suction System Calculated Values ---
+ 
+Required maximum flow rate: 0.034907 m^3/s 
+ 
+Required pump head: 1020.8647 m^2/s^2 
+ 
+Required pump head: 1049.4489 kPa 
+ 
+Required pump head: 107.0414 m 
+ 
+Maximum system pressure: 329.1885 kPa 
+ 
+Minimum system pressure: -720.2604 kPa 
+ 
+Pipe thickness: 5 mm 
+ 
+
+******** Suction Pump Design ********
+ 
+
+--- Pump Operational Properties ---
+ 
+Pump flowrate required: 553.2805 gpm 
+ 
+Pump head required: 351.2029 ft 
+ 
+Pump impeller rotational speed: 3600 rpm 
+ 
+Pump specific speed: 1094.7199 
+ 
+
+--- Graph Parameters ---
+ 
+Head Constant: 1.0188 
+ 
+Capacity Constant: 0.087616 
+ 
+Impeller Radius Ratio: 0.46902 
+ 
+Volute Velocity Constant: 0.45791 
+ 
+
+--- Impeller Design Properties ---
+ 
+Impeller blade width: 6.35 mm 
+ 
+Number of vanes on impeller: 6 
+ 
+Vane inlet angle: 20.3703 deg 
+ 
+Vane discharge angle: 15 deg 
+ 
+Impeller outer radius: 123.9303 mm 
+ 
+Impeller inner radius: 58.1264 mm 
+ 
+Impeller width: 11.7467 mm 
+ 
+
+--- Pump Power Requirements and Efficency ---
+ 
+Pump hydraulic power: 36632.6772 W 
+ 
+Required torque: 144.4346 N.m 
+ 
+Pump shaft power: 54450.5591 W 
+ 
+Pump efficency: 67.277 
+--- Pump Shaft Design ---
+ 
+Shaft diameter calculated (SF = 1.5):19.9692 mm. 
+
+--- Volute Design Properties ---
+ 
+Volute inner width: 20.5568 mm 
+ 
+Volute outer width: 56.027 mm 
+ 
+Cutwater radius: 131.3661 mm 
+ 
+Volute exit area: 1663.854 mm^2 
+ 
+Volute exit diameter: 46.027 mm 
+ 
+Volute revolution: 0.875  
+ 
+Volute spiral pitch: 14.5544 mm 
+ 
+Pump minimum wall thickness: 5 mm 
+ 
+
+--- O-rings ---
+ 
+O-ring clearance for operational pressure: 0.16302 mm
+ 
+O-ring cross-section diameter: 5 mm 
+ 
+O-ring inner diameter: 33.8977 mm 
+ 
+O-ring groove depth: 3.337 mm 
+ 
+O-ring groove width: 7.8454 mm 
+ 
+
+******** Suction System Design ********
+ 
+
+--- Sea Water Properties ---
+ 
+Desnity: 1028 kg/m^3 
+ 
+Dynamic viscosity: 0.00167 Pa.s 
+ 
+
+--- Other Parameters ---
+ 
+Pipe roughness (stainless steel): 0.015 
+ 
+clamshell height: 1 m 
+ 
+
+--- Assumed Parameters (based on worse case scenario) ---
+ 
+Clamshell fully open angle: 10 degress 
+ 
+Length of rigid pipe with diamter D_f: 2 m 
+ 
+Length of flexible pipe with diamter D_f: 3 m 
+ 
+Length of rigid pipe with diameter D_s: 4 m 
+ 
+Vertical distance between suction inlet and outlet: 5 m 
+ 
+
+--- Parameters of Smaller Pipe ---
+ 
+Diameter: 0.1016 m 
+ 
+Reynolds Number: 1091.5603 
+ 
+Friction Factor: 0.058632 
+ 
+Fluid Velocity: 2.1528 m/s 
+ 
+
+--- Parameters of Larger Pipe ---
+ 
+Diameter: 0.127 m 
+ 
+Reynolds Number: 2728.9007 
+ 
+Friction Factor: 0.12107 
+ 
+Fluid Velocity: 2.7556 m/s 
+ 
+
+--- System Pressure Losses ---
+ 
+Major Losses: 23.8639 m^2/s^2 
+ 
+Minor Losses: 944.1542 m^2/s^2 
+ 
+
+--- Suction System Calculated Values ---
+ 
+Required maximum flow rate: 0.034907 m^3/s 
+ 
+Required pump head: 1020.8647 m^2/s^2 
+ 
+Required pump head: 1049.4489 kPa 
+ 
+Required pump head: 107.0414 m 
+ 
+Maximum system pressure: 329.1885 kPa 
+ 
+Minimum system pressure: -720.2604 kPa 
+ 
+Pipe thickness: 5 mm 
+ 
+
+******** Suction Pump Design ********
+ 
+
+--- Pump Operational Properties ---
+ 
+Pump flowrate required: 553.2805 gpm 
+ 
+Pump head required: 351.2029 ft 
+ 
+Pump impeller rotational speed: 3600 rpm 
+ 
+Pump specific speed: 1094.7199 
+ 
+
+--- Graph Parameters ---
+ 
+Head Constant: 1.0188 
+ 
+Capacity Constant: 0.087616 
+ 
+Impeller Radius Ratio: 0.46902 
+ 
+Volute Velocity Constant: 0.45791 
+ 
+
+--- Impeller Design Properties ---
+ 
+Impeller blade width: 6.35 mm 
+ 
+Number of vanes on impeller: 6 
+ 
+Vane inlet angle: 20.3703 deg 
+ 
+Vane discharge angle: 15 deg 
+ 
+Impeller outer radius: 123.9303 mm 
+ 
+Impeller inner radius: 58.1264 mm 
+ 
+Impeller width: 11.7467 mm 
+ 
+
+--- Pump Power Requirements and Efficency ---
+ 
+Pump hydraulic power: 36632.6772 W 
+ 
+Required torque: 144.4346 N.m 
+ 
+Pump shaft power: 54450.5591 W 
+ 
+Pump efficency: 67.277 
+--- Pump Shaft Design ---
+ 
+Shaft diameter calculated (SF = 1.5):19.9692 mm. 
+
+--- Volute Design Properties ---
+ 
+Volute inner width: 20.5568 mm 
+ 
+Volute outer width: 56.027 mm 
+ 
+Cutwater radius: 131.3661 mm 
+ 
+Volute exit area: 1663.854 mm^2 
+ 
+Volute exit diameter: 46.027 mm 
+ 
+Volute revolution: 0.875  
+ 
+Volute spiral pitch: 14.5544 mm 
+ 
+Pump minimum wall thickness: 5 mm 
+ 
+
+--- O-rings ---
+ 
+O-ring clearance for operational pressure: 0.16302 mm
+ 
+O-ring cross-section diameter: 5 mm 
+ 
+O-ring inner diameter: 33.8977 mm 
+ 
+O-ring groove depth: 3.337 mm 
+ 
+O-ring groove width: 7.8454 mm 
+ 
+
+******** Suction System Design ********
+ 
+
+--- Sea Water Properties ---
+ 
+Desnity: 1028 kg/m^3 
+ 
+Dynamic viscosity: 0.00167 Pa.s 
+ 
+
+--- Other Parameters ---
+ 
+Pipe roughness (stainless steel): 0.015 
+ 
+clamshell height: 1 m 
+ 
+
+--- Assumed Parameters (based on worse case scenario) ---
+ 
+Clamshell fully open angle: 10 degress 
+ 
+Length of rigid pipe with diamter D_f: 2 m 
+ 
+Length of flexible pipe with diamter D_f: 3 m 
+ 
+Length of rigid pipe with diameter D_s: 4 m 
+ 
+Vertical distance between suction inlet and outlet: 5 m 
+ 
+
+--- Parameters of Smaller Pipe ---
+ 
+Diameter: 0.1016 m 
+ 
+Reynolds Number: 1091.5603 
+ 
+Friction Factor: 0.058632 
+ 
+Fluid Velocity: 2.1528 m/s 
+ 
+
+--- Parameters of Larger Pipe ---
+ 
+Diameter: 0.127 m 
+ 
+Reynolds Number: 2728.9007 
+ 
+Friction Factor: 0.12107 
+ 
+Fluid Velocity: 2.7556 m/s 
+ 
+
+--- System Pressure Losses ---
+ 
+Major Losses: 23.8639 m^2/s^2 
+ 
+Minor Losses: 944.1542 m^2/s^2 
+ 
+
+--- Suction System Calculated Values ---
+ 
+Required maximum flow rate: 0.034907 m^3/s 
+ 
+Required pump head: 1020.8647 m^2/s^2 
+ 
+Required pump head: 1049.4489 kPa 
+ 
+Required pump head: 107.0414 m 
+ 
+Maximum system pressure: 329.1885 kPa 
+ 
+Minimum system pressure: -720.2604 kPa 
+ 
+Pipe thickness: 5 mm 
+ 
+
+******** Suction Pump Design ********
+ 
+
+--- Pump Operational Properties ---
+ 
+Pump flowrate required: 553.2805 gpm 
+ 
+Pump head required: 351.2029 ft 
+ 
+Pump impeller rotational speed: 3600 rpm 
+ 
+Pump specific speed: 1094.7199 
+ 
+
+--- Graph Parameters ---
+ 
+Head Constant: 1.0188 
+ 
+Capacity Constant: 0.087616 
+ 
+Impeller Radius Ratio: 0.46902 
+ 
+Volute Velocity Constant: 0.45791 
+ 
+
+--- Impeller Design Properties ---
+ 
+Impeller blade width: 6.35 mm 
+ 
+Number of vanes on impeller: 6 
+ 
+Vane inlet angle: 20.3703 deg 
+ 
+Vane discharge angle: 15 deg 
+ 
+Impeller outer radius: 123.9303 mm 
+ 
+Impeller inner radius: 58.1264 mm 
+ 
+Impeller width: 11.7467 mm 
+ 
+
+--- Pump Power Requirements and Efficency ---
+ 
+Pump hydraulic power: 36632.6772 W 
+ 
+Required torque: 144.4346 N.m 
+ 
+Pump shaft power: 54450.5591 W 
+ 
+Pump efficency: 67.277 
+--- Pump Shaft Design ---
+ 
+Shaft diameter calculated (SF = 1.5):19.9692 mm. 
+
+--- Volute Design Properties ---
+ 
+Volute inner width: 20.5568 mm 
+ 
+Volute outer width: 56.027 mm 
+ 
+Cutwater radius: 131.3661 mm 
+ 
+Volute exit area: 1663.854 mm^2 
+ 
+Volute exit diameter: 46.027 mm 
+ 
+Volute revolution: 0.875  
+ 
+Volute spiral pitch: 14.5544 mm 
+ 
+Pump minimum wall thickness: 5 mm 
+ 
+
+--- O-rings ---
+ 
+O-ring clearance for operational pressure: 0.16302 mm
+ 
+O-ring cross-section diameter: 5 mm 
+ 
+O-ring inner diameter: 33.8977 mm 
+ 
+O-ring groove depth: 3.337 mm 
+ 
+O-ring groove width: 7.8454 mm 
+ 
+
+******** Suction System Design ********
+ 
+
+--- Sea Water Properties ---
+ 
+Desnity: 1028 kg/m^3 
+ 
+Dynamic viscosity: 0.00167 Pa.s 
+ 
+
+--- Other Parameters ---
+ 
+Pipe roughness (stainless steel): 0.015 
+ 
+clamshell height: 1 m 
+ 
+
+--- Assumed Parameters (based on worse case scenario) ---
+ 
+Clamshell fully open angle: 10 degress 
+ 
+Length of rigid pipe with diamter D_f: 2 m 
+ 
+Length of flexible pipe with diamter D_f: 3 m 
+ 
+Length of rigid pipe with diameter D_s: 4 m 
+ 
+Vertical distance between suction inlet and outlet: 5 m 
+ 
+
+--- Parameters of Smaller Pipe ---
+ 
+Diameter: 0.1016 m 
+ 
+Reynolds Number: 1091.5603 
+ 
+Friction Factor: 0.058632 
+ 
+Fluid Velocity: 2.1528 m/s 
+ 
+
+--- Parameters of Larger Pipe ---
+ 
+Diameter: 0.127 m 
+ 
+Reynolds Number: 2728.9007 
+ 
+Friction Factor: 0.12107 
+ 
+Fluid Velocity: 2.7556 m/s 
+ 
+
+--- System Pressure Losses ---
+ 
+Major Losses: 23.8639 m^2/s^2 
+ 
+Minor Losses: 944.1542 m^2/s^2 
+ 
+
+--- Suction System Calculated Values ---
+ 
+Required maximum flow rate: 0.034907 m^3/s 
+ 
+Required pump head: 1020.8647 m^2/s^2 
+ 
+Required pump head: 1049.4489 kPa 
+ 
+Required pump head: 107.0414 m 
+ 
+Maximum system pressure: 329.1885 kPa 
+ 
+Minimum system pressure: -720.2604 kPa 
+ 
+Pipe thickness: 5 mm 
+ 
+
+******** Suction Pump Design ********
+ 
+
+--- Pump Operational Properties ---
+ 
+Pump flowrate required: 1088.4207 gpm 
+ 
+Pump head required: 257.3601 ft 
+ 
+Pump impeller rotational speed: 3600 rpm 
+ 
+Pump specific speed: 1938.6141 
+ 
+
+--- Graph Parameters ---
+ 
+Head Constant: 1.0863 
+ 
+Capacity Constant: 0.1336 
+ 
+Impeller Radius Ratio: 0.54498 
+ 
+Volute Velocity Constant: 0.36592 
+ 
+
+--- Impeller Design Properties ---
+ 
+Impeller blade width: 6.35 mm 
+ 
+Number of vanes on impeller: 6 
+ 
+Vane inlet angle: 21.3734 deg 
+ 
+Vane discharge angle: 15 deg 
+ 
+Impeller outer radius: 113.1189 mm 
+ 
+Impeller inner radius: 61.647 mm 
+ 
+Impeller width: 19.4916 mm 
+ 
+
+--- Pump Power Requirements and Efficency ---
+ 
+Pump hydraulic power: 52808.4212 W 
+ 
+Required torque: 192.811 N.m 
+ 
+Pump shaft power: 72688.0443 W 
+ 
+Pump efficency: 72.6508 
+--- Pump Shaft Design ---
+ 
+Shaft diameter calculated (SF = 1.5):21.9878 mm. 
+
+--- Volute Design Properties ---
+ 
+Volute inner width: 34.1103 mm 
+ 
+Volute outer width: 88.0524 mm 
+ 
+Cutwater radius: 119.906 mm 
+ 
+Volute exit area: 4784.7897 mm^2 
+ 
+Volute exit diameter: 78.0524 mm 
+ 
+Volute revolution: 0.875  
+ 
+Volute spiral pitch: 25.1098 mm 
+ 
+Pump minimum wall thickness: 5 mm 
+ 
+
+--- O-rings ---
+ 
+O-ring clearance for operational pressure: 0.16302 mm
+ 
+O-ring cross-section diameter: 5 mm 
+ 
+O-ring inner diameter: 37.3242 mm 
+ 
+O-ring groove depth: 3.337 mm 
+ 
+O-ring groove width: 7.8454 mm 
+ 
+
+******** Suction System Design ********
+ 
+
+--- Sea Water Properties ---
+ 
+Desnity: 1028 kg/m^3 
+ 
+Dynamic viscosity: 0.00167 Pa.s 
+ 
+
+--- Other Parameters ---
+ 
+Pipe roughness (stainless steel): 0.015 
+ 
+clamshell height: 1 m 
+ 
+
+--- Assumed Parameters (based on worse case scenario) ---
+ 
+Clamshell fully open angle: 10 degress 
+ 
+Length of rigid pipe with diamter D_f: 2 m 
+ 
+Length of flexible pipe with diamter D_f: 3 m 
+ 
+Length of rigid pipe with diameter D_s: 4 m 
+ 
+Vertical distance between suction inlet and outlet: 5 m 
+ 
+
+--- Parameters of Smaller Pipe ---
+ 
+Diameter: 0.127 m 
+ 
+Reynolds Number: 2684.1646 
+ 
+Friction Factor: 0.12121 
+ 
+Fluid Velocity: 2.7104 m/s 
+ 
+
+--- Parameters of Larger Pipe ---
+ 
+Diameter: 0.2032 m 
+ 
+Reynolds Number: 8589.3267 
+ 
+Friction Factor: 0.090131 
+ 
+Fluid Velocity: 2.1175 m/s 
+ 
+
+--- System Pressure Losses ---
+ 
+Major Losses: 17.701 m^2/s^2 
+ 
+Minor Losses: 679.0927 m^2/s^2 
+ 
+
+--- Suction System Calculated Values ---
+ 
+Required maximum flow rate: 0.068669 m^3/s 
+ 
+Required pump head: 748.0856 m^2/s^2 
+ 
+Required pump head: 769.032 kPa 
+ 
+Required pump head: 78.4395 m 
+ 
+Maximum system pressure: 147.6286 kPa 
+ 
+Minimum system pressure: -621.4033 kPa 
+ 
+Pipe thickness: 5 mm 
+ 
+
+******** Suction Pump Design ********
+ 
+
+--- Pump Operational Properties ---
+ 
+Pump flowrate required: 1088.4207 gpm 
+ 
+Pump head required: 257.3601 ft 
+ 
+Pump impeller rotational speed: 1600 rpm 
+ 
+Pump specific speed: 861.6063 
+ 
+
+--- Graph Parameters ---
+ 
+Head Constant: 1.0001 
+ 
+Capacity Constant: 0.07342 
+ 
+Impeller Radius Ratio: 0.44804 
+ 
+Volute Velocity Constant: 0.49085 
+ 
+
+--- Impeller Design Properties ---
+ 
+Impeller blade width: 6.35 mm 
+ 
+Number of vanes on impeller: 6 
+ 
+Vane inlet angle: 19.5827 deg 
+ 
+Vane discharge angle: 15 deg 
+ 
+Impeller outer radius: 234.33 mm 
+ 
+Impeller inner radius: 104.9903 mm 
+ 
+Impeller width: 16.6339 mm 
+ 
+
+--- Pump Power Requirements and Efficency ---
+ 
+Pump hydraulic power: 52808.4212 W 
+ 
+Required torque: 476.371 N.m 
+ 
+Pump shaft power: 79816.7269 W 
+ 
+Pump efficency: 66.1621 
+--- Pump Shaft Design ---
+ 
+Shaft diameter calculated (SF = 1.5):29.7248 mm. 
+
+--- Volute Design Properties ---
+ 
+Volute inner width: 33.2678 mm 
+ 
+Volute outer width: 77.3919 mm 
+ 
+Cutwater radius: 246.0465 mm 
+ 
+Volute exit area: 3567.0165 mm^2 
+ 
+Volute exit diameter: 67.3919 mm 
+ 
+Volute revolution: 0.875  
+ 
+Volute spiral pitch: 19.4995 mm 
+ 
+Pump minimum wall thickness: 5 mm 
+ 
+
+--- O-rings ---
+ 
+O-ring clearance for operational pressure: 0.16302 mm
+ 
+O-ring cross-section diameter: 5 mm 
+ 
+O-ring inner diameter: 50.4578 mm 
+ 
+O-ring groove depth: 3.337 mm 
+ 
+O-ring groove width: 7.8454 mm 
+ 
+
+******** Suction System Design ********
+ 
+
+--- Sea Water Properties ---
+ 
+Desnity: 1028 kg/m^3 
+ 
+Dynamic viscosity: 0.00167 Pa.s 
+ 
+
+--- Other Parameters ---
+ 
+Pipe roughness (stainless steel): 0.015 
+ 
+clamshell height: 1 m 
+ 
+
+--- Assumed Parameters (based on worse case scenario) ---
+ 
+Clamshell fully open angle: 10 degress 
+ 
+Length of rigid pipe with diamter D_f: 2 m 
+ 
+Length of flexible pipe with diamter D_f: 3 m 
+ 
+Length of rigid pipe with diameter D_s: 4 m 
+ 
+Vertical distance between suction inlet and outlet: 5 m 
+ 
+
+--- Parameters of Smaller Pipe ---
+ 
+Diameter: 0.127 m 
+ 
+Reynolds Number: 2684.1646 
+ 
+Friction Factor: 0.12121 
+ 
+Fluid Velocity: 2.7104 m/s 
+ 
+
+--- Parameters of Larger Pipe ---
+ 
+Diameter: 0.2032 m 
+ 
+Reynolds Number: 8589.3267 
+ 
+Friction Factor: 0.090131 
+ 
+Fluid Velocity: 2.1175 m/s 
+ 
+
+--- System Pressure Losses ---
+ 
+Major Losses: 17.701 m^2/s^2 
+ 
+Minor Losses: 679.0927 m^2/s^2 
+ 
+
+--- Suction System Calculated Values ---
+ 
+Required maximum flow rate: 0.068669 m^3/s 
+ 
+Required pump head: 748.0856 m^2/s^2 
+ 
+Required pump head: 769.032 kPa 
+ 
+Required pump head: 78.4395 m 
+ 
+Maximum system pressure: 147.6286 kPa 
+ 
+Minimum system pressure: -621.4033 kPa 
+ 
+Pipe thickness: 5 mm 
+ 
+
+******** Suction Pump Design ********
+ 
+
+--- Pump Operational Properties ---
+ 
+Pump flowrate required: 1088.4207 gpm 
+ 
+Pump head required: 257.3601 ft 
+ 
+Pump impeller rotational speed: 1800 rpm 
+ 
+Pump specific speed: 969.3071 
+ 
+
+--- Graph Parameters ---
+ 
+Head Constant: 1.0087 
+ 
+Capacity Constant: 0.08009 
+ 
+Impeller Radius Ratio: 0.45774 
+ 
+Volute Velocity Constant: 0.47523 
+ 
+
+--- Impeller Design Properties ---
+ 
+Impeller blade width: 6.35 mm 
+ 
+Number of vanes on impeller: 6 
+ 
+Vane inlet angle: 20.178 deg 
+ 
+Vane discharge angle: 15 deg 
+ 
+Impeller outer radius: 210.0878 mm 
+ 
+Impeller inner radius: 96.1651 mm 
+ 
+Impeller width: 17.0606 mm 
+ 
+
+--- Pump Power Requirements and Efficency ---
+ 
+Pump hydraulic power: 52808.4212 W 
+ 
+Required torque: 418.5269 N.m 
+ 
+Pump shaft power: 78890.455 W 
+ 
+Pump efficency: 66.9389 
+--- Pump Shaft Design ---
+ 
+Shaft diameter calculated (SF = 1.5):28.4694 mm. 
+
+--- Volute Design Properties ---
+ 
+Volute inner width: 34.1211 mm 
+ 
+Volute outer width: 78.4908 mm 
+ 
+Cutwater radius: 220.5922 mm 
+ 
+Volute exit area: 3684.2927 mm^2 
+ 
+Volute exit diameter: 68.4908 mm 
+ 
+Volute revolution: 0.875  
+ 
+Volute spiral pitch: 19.6398 mm 
+ 
+Pump minimum wall thickness: 5 mm 
+ 
+
+--- O-rings ---
+ 
+O-ring clearance for operational pressure: 0.16302 mm
+ 
+O-ring cross-section diameter: 5 mm 
+ 
+O-ring inner diameter: 48.3268 mm 
+ 
+O-ring groove depth: 3.337 mm 
+ 
+O-ring groove width: 7.8454 mm 
+ 
+
+******** Suction System Design ********
+ 
+
+--- Sea Water Properties ---
+ 
+Desnity: 1028 kg/m^3 
+ 
+Dynamic viscosity: 0.00167 Pa.s 
+ 
+
+--- Other Parameters ---
+ 
+Pipe roughness (stainless steel): 0.015 
+ 
+clamshell height: 1 m 
+ 
+
+--- Assumed Parameters (based on worse case scenario) ---
+ 
+Clamshell fully open angle: 10 degress 
+ 
+Length of rigid pipe with diamter D_f: 2 m 
+ 
+Length of flexible pipe with diamter D_f: 3 m 
+ 
+Length of rigid pipe with diameter D_s: 4 m 
+ 
+Vertical distance between suction inlet and outlet: 5 m 
+ 
+
+--- Parameters of Smaller Pipe ---
+ 
+Diameter: 0.127 m 
+ 
+Reynolds Number: 2684.1646 
+ 
+Friction Factor: 0.12121 
+ 
+Fluid Velocity: 2.7104 m/s 
+ 
+
+--- Parameters of Larger Pipe ---
+ 
+Diameter: 0.2032 m 
+ 
+Reynolds Number: 8589.3267 
+ 
+Friction Factor: 0.090131 
+ 
+Fluid Velocity: 2.1175 m/s 
+ 
+
+--- System Pressure Losses ---
+ 
+Major Losses: 17.701 m^2/s^2 
+ 
+Minor Losses: 679.0927 m^2/s^2 
+ 
+
+--- Suction System Calculated Values ---
+ 
+Required maximum flow rate: 0.068669 m^3/s 
+ 
+Required pump head: 748.0856 m^2/s^2 
+ 
+Required pump head: 769.032 kPa 
+ 
+Required pump head: 78.4395 m 
+ 
+Maximum system pressure: 147.6286 kPa 
+ 
+Minimum system pressure: -621.4033 kPa 
+ 
+Pipe thickness: 5 mm 
+ 
+
+******** Suction Pump Design ********
+ 
+
+--- Pump Operational Properties ---
+ 
+Pump flowrate required: 1088.4207 gpm 
+ 
+Pump head required: 257.3601 ft 
+ 
+Pump impeller rotational speed: 3600 rpm 
+ 
+Pump specific speed: 1938.6141 
+ 
+
+--- Graph Parameters ---
+ 
+Head Constant: 1.0863 
+ 
+Capacity Constant: 0.1336 
+ 
+Impeller Radius Ratio: 0.54498 
+ 
+Volute Velocity Constant: 0.36592 
+ 
+
+--- Impeller Design Properties ---
+ 
+Impeller blade width: 6.35 mm 
+ 
+Number of vanes on impeller: 6 
+ 
+Vane inlet angle: 21.3734 deg 
+ 
+Vane discharge angle: 15 deg 
+ 
+Impeller outer radius: 113.1189 mm 
+ 
+Impeller inner radius: 61.647 mm 
+ 
+Impeller width: 19.4916 mm 
+ 
+
+--- Pump Power Requirements and Efficency ---
+ 
+Pump hydraulic power: 52808.4212 W 
+ 
+Required torque: 192.811 N.m 
+ 
+Pump shaft power: 72688.0443 W 
+ 
+Pump efficency: 72.6508 
+--- Pump Shaft Design ---
+ 
+Shaft diameter calculated (SF = 1.5):21.9878 mm. 
+
+--- Volute Design Properties ---
+ 
+Volute inner width: 34.1103 mm 
+ 
+Volute outer width: 88.0524 mm 
+ 
+Cutwater radius: 119.906 mm 
+ 
+Volute exit area: 4784.7897 mm^2 
+ 
+Volute exit diameter: 78.0524 mm 
+ 
+Volute revolution: 0.875  
+ 
+Volute spiral pitch: 25.1098 mm 
+ 
+Pump minimum wall thickness: 5 mm 
+ 
+
+--- O-rings ---
+ 
+O-ring clearance for operational pressure: 0.16302 mm
+ 
+O-ring cross-section diameter: 5 mm 
+ 
+O-ring inner diameter: 37.3242 mm 
+ 
+O-ring groove depth: 3.337 mm 
+ 
+O-ring groove width: 7.8454 mm 
+ 
+
+******** Suction System Design ********
+ 
+
+--- Sea Water Properties ---
+ 
+Desnity: 1028 kg/m^3 
+ 
+Dynamic viscosity: 0.00167 Pa.s 
+ 
+
+--- Other Parameters ---
+ 
+Pipe roughness (stainless steel): 0.015 
+ 
+clamshell height: 1 m 
+ 
+
+--- Assumed Parameters (based on worse case scenario) ---
+ 
+Clamshell fully open angle: 10 degress 
+ 
+Length of rigid pipe with diamter D_f: 2 m 
+ 
+Length of flexible pipe with diamter D_f: 3 m 
+ 
+Length of rigid pipe with diameter D_s: 4 m 
+ 
+Vertical distance between suction inlet and outlet: 5 m 
+ 
+
+--- Parameters of Smaller Pipe ---
+ 
+Diameter: 0.127 m 
+ 
+Reynolds Number: 2684.1646 
+ 
+Friction Factor: 0.12121 
+ 
+Fluid Velocity: 2.7104 m/s 
+ 
+
+--- Parameters of Larger Pipe ---
+ 
+Diameter: 0.2032 m 
+ 
+Reynolds Number: 8589.3267 
+ 
+Friction Factor: 0.090131 
+ 
+Fluid Velocity: 2.1175 m/s 
+ 
+
+--- System Pressure Losses ---
+ 
+Major Losses: 17.701 m^2/s^2 
+ 
+Minor Losses: 679.0927 m^2/s^2 
+ 
+
+--- Suction System Calculated Values ---
+ 
+Required maximum flow rate: 0.068669 m^3/s 
+ 
+Required pump head: 748.0856 m^2/s^2 
+ 
+Required pump head: 769.032 kPa 
+ 
+Required pump head: 78.4395 m 
+ 
+Maximum system pressure: 147.6286 kPa 
+ 
+Minimum system pressure: -621.4033 kPa 
+ 
+Pipe thickness: 5 mm 
+ 
+
+******** Suction Pump Design ********
+ 
+
+--- Pump Operational Properties ---
+ 
+Pump flowrate required: 1088.4207 gpm 
+ 
+Pump head required: 257.3601 ft 
+ 
+Pump impeller rotational speed: 3600 rpm 
+ 
+Pump specific speed: 1938.6141 
+ 
+
+--- Graph Parameters ---
+ 
+Head Constant: 1.0863 
+ 
+Capacity Constant: 0.1336 
+ 
+Impeller Radius Ratio: 0.54498 
+ 
+Volute Velocity Constant: 0.36592 
+ 
+
+--- Impeller Design Properties ---
+ 
+Impeller blade width: 6.35 mm 
+ 
+Number of vanes on impeller: 6 
+ 
+Vane inlet angle: 21.3734 deg 
+ 
+Vane discharge angle: 15 deg 
+ 
+Impeller outer radius: 113.1189 mm 
+ 
+Impeller inner radius: 61.647 mm 
+ 
+Impeller width: 19.4916 mm 
+ 
+
+--- Pump Power Requirements and Efficency ---
+ 
+Pump hydraulic power: 52808.4212 W 
+ 
+Required torque: 192.811 N.m 
+ 
+Pump shaft power: 72688.0443 W 
+ 
+Pump efficency: 72.6508 
+--- Pump Shaft Design ---
+ 
+Shaft diameter calculated (SF = 1.5):21.9878 mm. 
+
+--- Volute Design Properties ---
+ 
+Volute inner width: 34.1103 mm 
+ 
+Volute outer width: 88.0524 mm 
+ 
+Cutwater radius: 119.906 mm 
+ 
+Volute exit area: 4784.7897 mm^2 
+ 
+Volute exit diameter: 78.0524 mm 
+ 
+Volute revolution: 0.875  
+ 
+Volute spiral pitch: 25.1098 mm 
+ 
+Pump minimum wall thickness: 5 mm 
+ 
+
+--- O-rings ---
+ 
+O-ring clearance for operational pressure: 0.16302 mm
+ 
+O-ring cross-section diameter: 5 mm 
+ 
+O-ring inner diameter: 37.3242 mm 
+ 
+O-ring groove depth: 3.337 mm 
+ 
+O-ring groove width: 7.8454 mm 
+ 
+
+******** Suction System Design ********
+ 
+
+--- Sea Water Properties ---
+ 
+Desnity: 1028 kg/m^3 
+ 
+Dynamic viscosity: 0.00167 Pa.s 
+ 
+
+--- Other Parameters ---
+ 
+Pipe roughness (stainless steel): 0.015 
+ 
+clamshell height: 1 m 
+ 
+
+--- Assumed Parameters (based on worse case scenario) ---
+ 
+Clamshell fully open angle: 10 degress 
+ 
+Length of rigid pipe with diamter D_f: 2 m 
+ 
+Length of flexible pipe with diamter D_f: 3 m 
+ 
+Length of rigid pipe with diameter D_s: 4 m 
+ 
+Vertical distance between suction inlet and outlet: 5 m 
+ 
+
+--- Parameters of Smaller Pipe ---
+ 
+Diameter: 0.127 m 
+ 
+Reynolds Number: 2684.1646 
+ 
+Friction Factor: 0.12121 
+ 
+Fluid Velocity: 2.7104 m/s 
+ 
+
+--- Parameters of Larger Pipe ---
+ 
+Diameter: 0.2032 m 
+ 
+Reynolds Number: 8589.3267 
+ 
+Friction Factor: 0.090131 
+ 
+Fluid Velocity: 2.1175 m/s 
+ 
+
+--- System Pressure Losses ---
+ 
+Major Losses: 17.701 m^2/s^2 
+ 
+Minor Losses: 679.0927 m^2/s^2 
+ 
+
+--- Suction System Calculated Values ---
+ 
+Required maximum flow rate: 0.068669 m^3/s 
+ 
+Required pump head: 748.0856 m^2/s^2 
+ 
+Required pump head: 769.032 kPa 
+ 
+Required pump head: 78.4395 m 
+ 
+Maximum system pressure: 147.6286 kPa 
+ 
+Minimum system pressure: -621.4033 kPa 
+ 
+Pipe thickness: 5 mm 
+ 
+
+******** Suction Pump Design ********
+ 
+
+--- Pump Operational Properties ---
+ 
+Pump flowrate required: 474.2405 gpm 
+ 
+Pump head required: 284.1393 ft 
+ 
+Pump impeller rotational speed: 3600 rpm 
+ 
+Pump specific speed: 1188.0908 
+ 
+
+--- Graph Parameters ---
+ 
+Head Constant: 1.0262 
+ 
+Capacity Constant: 0.093073 
+ 
+Impeller Radius Ratio: 0.47743 
+ 
+Volute Velocity Constant: 0.44563 
+ 
+
+--- Impeller Design Properties ---
+ 
+Impeller blade width: 6.35 mm 
+ 
+Number of vanes on impeller: 6 
+ 
+Vane inlet angle: 20.6004 deg 
+ 
+Vane discharge angle: 15 deg 
+ 
+Impeller outer radius: 112.2889 mm 
+ 
+Impeller inner radius: 53.6099 mm 
+ 
+Impeller width: 11.6925 mm 
+ 
+
+--- Pump Power Requirements and Efficency ---
+ 
+Pump hydraulic power: 25403.5941 W 
+ 
+Required torque: 99.4543 N.m 
+ 
+Pump shaft power: 37493.3908 W 
+ 
+Pump efficency: 67.7549 
+--- Pump Shaft Design ---
+ 
+Shaft diameter calculated (SF = 1.5):17.6338 mm. 
+
+--- Volute Design Properties ---
+ 
+Volute inner width: 20.4618 mm 
+ 
+Volute outer width: 55.5458 mm 
+ 
+Cutwater radius: 119.0262 mm 
+ 
+Volute exit area: 1629.2483 mm^2 
+ 
+Volute exit diameter: 45.5458 mm 
+ 
+Volute revolution: 0.875  
+ 
+Volute spiral pitch: 14.3337 mm 
+ 
+Pump minimum wall thickness: 5 mm 
+ 
+
+--- O-rings ---
+ 
+O-ring clearance for operational pressure: 0.16302 mm
+ 
+O-ring cross-section diameter: 5 mm 
+ 
+O-ring inner diameter: 29.9333 mm 
+ 
+O-ring groove depth: 3.337 mm 
+ 
+O-ring groove width: 7.8454 mm 
+ 
+
+******** Suction System Design ********
+ 
+
+--- Sea Water Properties ---
+ 
+Desnity: 1028 kg/m^3 
+ 
+Dynamic viscosity: 0.00167 Pa.s 
+ 
+
+--- Other Parameters ---
+ 
+Pipe roughness (stainless steel): 0.015 
+ 
+clamshell height: 1 m 
+ 
+
+--- Assumed Parameters (based on worse case scenario) ---
+ 
+Clamshell fully open angle: 10 degress 
+ 
+Length of rigid pipe with diamter D_f: 2 m 
+ 
+Length of flexible pipe with diamter D_f: 3 m 
+ 
+Length of rigid pipe with diameter D_s: 4 m 
+ 
+Vertical distance between suction inlet and outlet: 5 m 
+ 
+
+--- Parameters of Smaller Pipe ---
+ 
+Diameter: 0.0762 m 
+ 
+Reynolds Number: 701.7173 
+ 
+Friction Factor: 0.091205 
+ 
+Fluid Velocity: 3.2804 m/s 
+ 
+
+--- Parameters of Larger Pipe ---
+ 
+Diameter: 0.1016 m 
+ 
+Reynolds Number: 1871.2462 
+ 
+Friction Factor: 0.034202 
+ 
+Fluid Velocity: 3.6905 m/s 
+ 
+
+--- System Pressure Losses ---
+ 
+Major Losses: 28.7619 m^2/s^2 
+ 
+Minor Losses: 734.495 m^2/s^2 
+ 
+
+--- Suction System Calculated Values ---
+ 
+Required maximum flow rate: 0.02992 m^3/s 
+ 
+Required pump head: 825.9266 m^2/s^2 
+ 
+Required pump head: 849.0526 kPa 
+ 
+Required pump head: 86.6014 m 
+ 
+Maximum system pressure: 175.7867 kPa 
+ 
+Minimum system pressure: -673.2659 kPa 
+ 
+Pipe thickness: 5 mm 
+ 
+
+******** Suction Pump Design ********
+ 
+
+--- Pump Operational Properties ---
+ 
+Pump flowrate required: 1088.4207 gpm 
+ 
+Pump head required: 257.3601 ft 
+ 
+Pump impeller rotational speed: 3600 rpm 
+ 
+Pump specific speed: 1938.6141 
+ 
+
+--- Graph Parameters ---
+ 
+Head Constant: 1.0863 
+ 
+Capacity Constant: 0.1336 
+ 
+Impeller Radius Ratio: 0.54498 
+ 
+Volute Velocity Constant: 0.36592 
+ 
+
+--- Impeller Design Properties ---
+ 
+Impeller blade width: 6.35 mm 
+ 
+Number of vanes on impeller: 6 
+ 
+Vane inlet angle: 21.3734 deg 
+ 
+Vane discharge angle: 15 deg 
+ 
+Impeller outer radius: 113.1189 mm 
+ 
+Impeller inner radius: 61.647 mm 
+ 
+Impeller width: 19.4916 mm 
+ 
+
+--- Pump Power Requirements and Efficency ---
+ 
+Pump hydraulic power: 52808.4212 W 
+ 
+Required torque: 192.811 N.m 
+ 
+Pump shaft power: 72688.0443 W 
+ 
+Pump efficency: 72.6508 
+--- Pump Shaft Design ---
+ 
+Shaft diameter calculated (SF = 1.5):21.9878 mm. 
+
+--- Volute Design Properties ---
+ 
+Volute inner width: 34.1103 mm 
+ 
+Volute outer width: 88.0524 mm 
+ 
+Cutwater radius: 119.906 mm 
+ 
+Volute exit area: 4784.7897 mm^2 
+ 
+Volute exit diameter: 78.0524 mm 
+ 
+Volute revolution: 0.875  
+ 
+Volute spiral pitch: 25.1098 mm 
+ 
+Pump minimum wall thickness: 5 mm 
+ 
+
+--- O-rings ---
+ 
+O-ring clearance for operational pressure: 0.16302 mm
+ 
+O-ring cross-section diameter: 5 mm 
+ 
+O-ring inner diameter: 37.3242 mm 
+ 
+O-ring groove depth: 3.337 mm 
+ 
+O-ring groove width: 7.8454 mm 
+ 
+
+******** Suction System Design ********
+ 
+
+--- Sea Water Properties ---
+ 
+Desnity: 1028 kg/m^3 
+ 
+Dynamic viscosity: 0.00167 Pa.s 
+ 
+
+--- Other Parameters ---
+ 
+Pipe roughness (stainless steel): 0.015 
+ 
+clamshell height: 1 m 
+ 
+
+--- Assumed Parameters (based on worse case scenario) ---
+ 
+Clamshell fully open angle: 10 degress 
+ 
+Length of rigid pipe with diamter D_f: 2 m 
+ 
+Length of flexible pipe with diamter D_f: 3 m 
+ 
+Length of rigid pipe with diameter D_s: 4 m 
+ 
+Vertical distance between suction inlet and outlet: 5 m 
+ 
+
+--- Parameters of Smaller Pipe ---
+ 
+Diameter: 0.127 m 
+ 
+Reynolds Number: 2684.1646 
+ 
+Friction Factor: 0.12121 
+ 
+Fluid Velocity: 2.7104 m/s 
+ 
+
+--- Parameters of Larger Pipe ---
+ 
+Diameter: 0.2032 m 
+ 
+Reynolds Number: 8589.3267 
+ 
+Friction Factor: 0.090131 
+ 
+Fluid Velocity: 2.1175 m/s 
+ 
+
+--- System Pressure Losses ---
+ 
+Major Losses: 17.701 m^2/s^2 
+ 
+Minor Losses: 679.0927 m^2/s^2 
+ 
+
+--- Suction System Calculated Values ---
+ 
+Required maximum flow rate: 0.068669 m^3/s 
+ 
+Required pump head: 748.0856 m^2/s^2 
+ 
+Required pump head: 769.032 kPa 
+ 
+Required pump head: 78.4395 m 
+ 
+Maximum system pressure: 147.6286 kPa 
+ 
+Minimum system pressure: -621.4033 kPa 
+ 
+Pipe thickness: 5 mm 
+ 
+
+******** Suction Pump Design ********
+ 
+
+--- Pump Operational Properties ---
+ 
+Pump flowrate required: 474.2405 gpm 
+ 
+Pump head required: 284.1393 ft 
+ 
+Pump impeller rotational speed: 3600 rpm 
+ 
+Pump specific speed: 1188.0908 
+ 
+
+--- Graph Parameters ---
+ 
+Head Constant: 1.0262 
+ 
+Capacity Constant: 0.093073 
+ 
+Impeller Radius Ratio: 0.47743 
+ 
+Volute Velocity Constant: 0.44563 
+ 
+
+--- Impeller Design Properties ---
+ 
+Impeller blade width: 6.35 mm 
+ 
+Number of vanes on impeller: 6 
+ 
+Vane inlet angle: 20.6004 deg 
+ 
+Vane discharge angle: 15 deg 
+ 
+Impeller outer radius: 112.2889 mm 
+ 
+Impeller inner radius: 53.6099 mm 
+ 
+Impeller width: 11.6925 mm 
+ 
+
+--- Pump Power Requirements and Efficency ---
+ 
+Pump hydraulic power: 25403.5941 W 
+ 
+Required torque: 99.4543 N.m 
+ 
+Pump shaft power: 37493.3908 W 
+ 
+Pump efficency: 67.7549 
+--- Pump Shaft Design ---
+ 
+Shaft diameter calculated (SF = 1.5):17.6338 mm. 
+
+--- Volute Design Properties ---
+ 
+Volute inner width: 20.4618 mm 
+ 
+Volute outer width: 55.5458 mm 
+ 
+Cutwater radius: 119.0262 mm 
+ 
+Volute exit area: 1629.2483 mm^2 
+ 
+Volute exit diameter: 45.5458 mm 
+ 
+Volute revolution: 0.875  
+ 
+Volute spiral pitch: 14.3337 mm 
+ 
+Pump minimum wall thickness: 5 mm 
+ 
+
+--- O-rings ---
+ 
+O-ring clearance for operational pressure: 0.16302 mm
+ 
+O-ring cross-section diameter: 5 mm 
+ 
+O-ring inner diameter: 29.9333 mm 
+ 
+O-ring groove depth: 3.337 mm 
+ 
+O-ring groove width: 7.8454 mm 
+ 
+
+******** Suction System Design ********
+ 
+
+--- Sea Water Properties ---
+ 
+Desnity: 1028 kg/m^3 
+ 
+Dynamic viscosity: 0.00167 Pa.s 
+ 
+
+--- Other Parameters ---
+ 
+Pipe roughness (stainless steel): 0.015 
+ 
+clamshell height: 1 m 
+ 
+
+--- Assumed Parameters (based on worse case scenario) ---
+ 
+Clamshell fully open angle: 10 degress 
+ 
+Length of rigid pipe with diamter D_f: 2 m 
+ 
+Length of flexible pipe with diamter D_f: 3 m 
+ 
+Length of rigid pipe with diameter D_s: 4 m 
+ 
+Vertical distance between suction inlet and outlet: 5 m 
+ 
+
+--- Parameters of Smaller Pipe ---
+ 
+Diameter: 0.0762 m 
+ 
+Reynolds Number: 701.7173 
+ 
+Friction Factor: 0.091205 
+ 
+Fluid Velocity: 3.2804 m/s 
+ 
+
+--- Parameters of Larger Pipe ---
+ 
+Diameter: 0.1016 m 
+ 
+Reynolds Number: 1871.2462 
+ 
+Friction Factor: 0.034202 
+ 
+Fluid Velocity: 3.6905 m/s 
+ 
+
+--- System Pressure Losses ---
+ 
+Major Losses: 28.7619 m^2/s^2 
+ 
+Minor Losses: 734.495 m^2/s^2 
+ 
+
+--- Suction System Calculated Values ---
+ 
+Required maximum flow rate: 0.02992 m^3/s 
+ 
+Required pump head: 825.9266 m^2/s^2 
+ 
+Required pump head: 849.0526 kPa 
+ 
+Required pump head: 86.6014 m 
+ 
+Maximum system pressure: 175.7867 kPa 
+ 
+Minimum system pressure: -673.2659 kPa 
+ 
+Pipe thickness: 5 mm 
+ 
+
+******** Suction Pump Design ********
+ 
+
+--- Pump Operational Properties ---
+ 
+Pump flowrate required: 474.2405 gpm 
+ 
+Pump head required: 284.1393 ft 
+ 
+Pump impeller rotational speed: 3600 rpm 
+ 
+Pump specific speed: 1188.0908 
+ 
+
+--- Graph Parameters ---
+ 
+Head Constant: 1.0262 
+ 
+Capacity Constant: 0.093073 
+ 
+Impeller Radius Ratio: 0.47743 
+ 
+Volute Velocity Constant: 0.44563 
+ 
+
+--- Impeller Design Properties ---
+ 
+Impeller blade width: 6.35 mm 
+ 
+Number of vanes on impeller: 6 
+ 
+Vane inlet angle: 20.6004 deg 
+ 
+Vane discharge angle: 15 deg 
+ 
+Impeller outer radius: 112.2889 mm 
+ 
+Impeller inner radius: 53.6099 mm 
+ 
+Impeller width: 11.6925 mm 
+ 
+
+--- Pump Power Requirements and Efficency ---
+ 
+Pump hydraulic power: 25403.5941 W 
+ 
+Required torque: 99.4543 N.m 
+ 
+Pump shaft power: 37493.3908 W 
+ 
+Pump efficency: 67.7549 
+--- Pump Shaft Design ---
+ 
+Shaft diameter calculated (SF = 1.5):17.6338 mm. 
+
+--- Volute Design Properties ---
+ 
+Volute inner width: 20.4618 mm 
+ 
+Volute outer width: 55.5458 mm 
+ 
+Cutwater radius: 119.0262 mm 
+ 
+Volute exit area: 1629.2483 mm^2 
+ 
+Volute exit diameter: 45.5458 mm 
+ 
+Volute revolution: 0.875  
+ 
+Volute spiral pitch: 14.3337 mm 
+ 
+Pump minimum wall thickness: 5 mm 
+ 
+
+--- O-rings ---
+ 
+O-ring clearance for operational pressure: 0.16302 mm
+ 
+O-ring cross-section diameter: 5 mm 
+ 
+O-ring inner diameter: 29.9333 mm 
+ 
+O-ring groove depth: 3.337 mm 
+ 
+O-ring groove width: 7.8454 mm 
+ 
+
+******** Suction System Design ********
+ 
+
+--- Sea Water Properties ---
+ 
+Desnity: 1028 kg/m^3 
+ 
+Dynamic viscosity: 0.00167 Pa.s 
+ 
+
+--- Other Parameters ---
+ 
+Pipe roughness (stainless steel): 0.015 
+ 
+clamshell height: 1 m 
+ 
+
+--- Assumed Parameters (based on worse case scenario) ---
+ 
+Clamshell fully open angle: 10 degress 
+ 
+Length of rigid pipe with diamter D_f: 2 m 
+ 
+Length of flexible pipe with diamter D_f: 3 m 
+ 
+Length of rigid pipe with diameter D_s: 4 m 
+ 
+Vertical distance between suction inlet and outlet: 5 m 
+ 
+
+--- Parameters of Smaller Pipe ---
+ 
+Diameter: 0.0762 m 
+ 
+Reynolds Number: 701.7173 
+ 
+Friction Factor: 0.091205 
+ 
+Fluid Velocity: 3.2804 m/s 
+ 
+
+--- Parameters of Larger Pipe ---
+ 
+Diameter: 0.1016 m 
+ 
+Reynolds Number: 1871.2462 
+ 
+Friction Factor: 0.034202 
+ 
+Fluid Velocity: 3.6905 m/s 
+ 
+
+--- System Pressure Losses ---
+ 
+Major Losses: 28.7619 m^2/s^2 
+ 
+Minor Losses: 734.495 m^2/s^2 
+ 
+
+--- Suction System Calculated Values ---
+ 
+Required maximum flow rate: 0.02992 m^3/s 
+ 
+Required pump head: 825.9266 m^2/s^2 
+ 
+Required pump head: 849.0526 kPa 
+ 
+Required pump head: 86.6014 m 
+ 
+Maximum system pressure: 175.7867 kPa 
+ 
+Minimum system pressure: -673.2659 kPa 
+ 
+Pipe thickness: 5 mm 
+ 
+
+******** Suction Pump Design ********
+ 
+
+--- Pump Operational Properties ---
+ 
+Pump flowrate required: 1088.4207 gpm 
+ 
+Pump head required: 257.3601 ft 
+ 
+Pump impeller rotational speed: 3600 rpm 
+ 
+Pump specific speed: 1938.6141 
+ 
+
+--- Graph Parameters ---
+ 
+Head Constant: 1.0863 
+ 
+Capacity Constant: 0.1336 
+ 
+Impeller Radius Ratio: 0.54498 
+ 
+Volute Velocity Constant: 0.36592 
+ 
+
+--- Impeller Design Properties ---
+ 
+Impeller blade width: 6.35 mm 
+ 
+Number of vanes on impeller: 6 
+ 
+Vane inlet angle: 21.3734 deg 
+ 
+Vane discharge angle: 15 deg 
+ 
+Impeller outer radius: 113.1189 mm 
+ 
+Impeller inner radius: 61.647 mm 
+ 
+Impeller width: 19.4916 mm 
+ 
+
+--- Pump Power Requirements and Efficency ---
+ 
+Pump hydraulic power: 52808.4212 W 
+ 
+Required torque: 192.811 N.m 
+ 
+Pump shaft power: 72688.0443 W 
+ 
+Pump efficency: 72.6508 
+--- Pump Shaft Design ---
+ 
+Shaft diameter calculated (SF = 1.5):21.9878 mm. 
+
+--- Volute Design Properties ---
+ 
+Volute inner width: 34.1103 mm 
+ 
+Volute outer width: 88.0524 mm 
+ 
+Cutwater radius: 119.906 mm 
+ 
+Volute exit area: 4784.7897 mm^2 
+ 
+Volute exit diameter: 78.0524 mm 
+ 
+Volute revolution: 0.875  
+ 
+Volute spiral pitch: 25.1098 mm 
+ 
+Pump minimum wall thickness: 5 mm 
+ 
+
+--- O-rings ---
+ 
+O-ring clearance for operational pressure: 0.16302 mm
+ 
+O-ring cross-section diameter: 5 mm 
+ 
+O-ring inner diameter: 37.3242 mm 
+ 
+O-ring groove depth: 3.337 mm 
+ 
+O-ring groove width: 7.8454 mm 
+ 
+
+******** Suction System Design ********
+ 
+
+--- Sea Water Properties ---
+ 
+Desnity: 1028 kg/m^3 
+ 
+Dynamic viscosity: 0.00167 Pa.s 
+ 
+
+--- Other Parameters ---
+ 
+Pipe roughness (stainless steel): 0.015 
+ 
+clamshell height: 1 m 
+ 
+
+--- Assumed Parameters (based on worse case scenario) ---
+ 
+Clamshell fully open angle: 10 degress 
+ 
+Length of rigid pipe with diamter D_f: 2 m 
+ 
+Length of flexible pipe with diamter D_f: 3 m 
+ 
+Length of rigid pipe with diameter D_s: 4 m 
+ 
+Vertical distance between suction inlet and outlet: 5 m 
+ 
+
+--- Parameters of Smaller Pipe ---
+ 
+Diameter: 0.127 m 
+ 
+Reynolds Number: 2684.1646 
+ 
+Friction Factor: 0.12121 
+ 
+Fluid Velocity: 2.7104 m/s 
+ 
+
+--- Parameters of Larger Pipe ---
+ 
+Diameter: 0.2032 m 
+ 
+Reynolds Number: 8589.3267 
+ 
+Friction Factor: 0.090131 
+ 
+Fluid Velocity: 2.1175 m/s 
+ 
+
+--- System Pressure Losses ---
+ 
+Major Losses: 17.701 m^2/s^2 
+ 
+Minor Losses: 679.0927 m^2/s^2 
+ 
+
+--- Suction System Calculated Values ---
+ 
+Required maximum flow rate: 0.068669 m^3/s 
+ 
+Required pump head: 748.0856 m^2/s^2 
+ 
+Required pump head: 769.032 kPa 
+ 
+Required pump head: 78.4395 m 
+ 
+Maximum system pressure: 147.6286 kPa 
+ 
+Minimum system pressure: -621.4033 kPa 
+ 
+Pipe thickness: 5 mm 
+ 
+
+******** Weld Leg ********
+ 
+Minimum Weld Leg: 0.016381 mm 
+ 
+**************************************
+ 
+
+******** Weld Leg ********
+ 
+Minimum Weld Leg: 16.3814 mm 
+ 
+**************************************
+ 
+
